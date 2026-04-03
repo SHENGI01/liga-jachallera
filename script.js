@@ -25,7 +25,7 @@ function obtenerEquipo(nombre) {
 // =====================
 const fechas = {
   fecha1: [
-    { local: "Pampa", visitante: "El Rincon", golesL: 0, golesV: 0, cancha: "A", hora: "16:00" },
+    { local: "Pampa", visitante: "El Rincon", golesL: 1, golesV: 0, cancha: "A", hora: "16:00" },
     { local: "San Lorenzo", visitante: "Estrella", golesL: 1, golesV: 2, cancha: "B", hora: "17:00" },
     { local: "Central Norte", visitante: "Andacollo", golesL: 3, golesV: 0, cancha: "C", hora: "18:00" },
     { local: "Peñarol", visitante: "Arbol Verde", golesL: 0, golesV: 3, cancha: "A", hora: "19:00" },
