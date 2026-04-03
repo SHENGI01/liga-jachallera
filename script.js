@@ -25,30 +25,30 @@ function obtenerEquipo(nombre) {
 // =====================
 const fechas = {
   fecha1: [
-    { local: "Pampa", visitante: "El Rincon", golesL: 1, golesV: 0, cancha: "A", hora: "16:00" },
-    { local: "San Lorenzo", visitante: "Estrella", golesL: 3, golesV: 2, cancha: "B", hora: "17:00" },
-    { local: "Central Norte", visitante: "Andacollo", golesL: 3, golesV: 0, cancha: "C", hora: "18:00" },
-    { local: "Peñarol", visitante: "Arbol Verde", golesL: 0, golesV: 3, cancha: "A", hora: "19:00" },
-    { local: "Niquivil", visitante: "Florida", golesL: 2, golesV: 2, cancha: "B", hora: "20:00" },
-    { local: "Pampa Vieja", visitante: "Racing", golesL: 1, golesV: 3, cancha: "C", hora: "21:00" }
+    { local: "Pampa", visitante: "El Rincon", golesL: 1, golesV: 0, cancha: "A", hora: "16:00", estado: "finalizado" },
+    { local: "San Lorenzo", visitante: "Estrella", golesL: 3, golesV: 2, cancha: "B", hora: "17:00", estado: "finalizado" },
+    { local: "Central Norte", visitante: "Andacollo", golesL: 3, golesV: 0, cancha: "C", hora: "18:00", estado: "finalizado" },
+    { local: "Peñarol", visitante: "Arbol Verde", golesL: 0, golesV: 3, cancha: "A", hora: "19:00", estado: "finalizado" },
+    { local: "Niquivil", visitante: "Florida", golesL: 2, golesV: 2, cancha: "B", hora: "20:00", estado: "finalizado" },
+    { local: "Pampa Vieja", visitante: "Racing", golesL: 1, golesV: 3, cancha: "C", hora: "21:00", estado: "finalizado" }
   ],
 
   fecha2: [
-    { local: "Pampa", visitante: "San Lorenzo", cancha: "A", hora: "16:00" },
-    { local: "El Rincon", visitante: "Estrella", cancha: "B", hora: "17:00" },
-    { local: "Central Norte", visitante: "Peñarol", cancha: "C", hora: "18:00" },
-    { local: "Andacollo", visitante: "Arbol Verde", cancha: "A", hora: "19:00" },
-    { local: "Niquivil", visitante: "Pampa Vieja", cancha: "B", hora: "20:00" },
-    { local: "Florida", visitante: "Racing", cancha: "C", hora: "21:00" }
+    { local: "Pampa", visitante: "San Lorenzo", cancha: "A", hora: "16:00", estado: "finalizado" },
+    { local: "El Rincon", visitante: "Estrella", cancha: "B", hora: "17:00", estado: "finalizado" },
+    { local: "Central Norte", visitante: "Peñarol", cancha: "C", hora: "18:00", estado: "finalizado" },
+    { local: "Andacollo", visitante: "Arbol Verde", cancha: "A", hora: "19:00", estado: "finalizado" },
+    { local: "Niquivil", visitante: "Pampa Vieja", cancha: "B", hora: "20:00", estado: "finalizado" },
+    { local: "Florida", visitante: "Racing", cancha: "C", hora: "21:00", estado: "finalizado" }
   ],
 
   fecha3: [
-    { local: "Pampa", visitante: "Estrella", cancha: "A", hora: "16:00" },
-    { local: "El Rincon", visitante: "San Lorenzo", cancha: "B", hora: "17:00" },
-    { local: "Central Norte", visitante: "Arbol Verde", cancha: "C", hora: "18:00" },
-    { local: "Andacollo", visitante: "Peñarol", cancha: "A", hora: "19:00" },
-    { local: "Niquivil", visitante: "Racing", cancha: "B", hora: "20:00" },
-    { local: "Florida", visitante: "Pampa Vieja", cancha: "C", hora: "21:00" }
+    { local: "Pampa", visitante: "Estrella", cancha: "A", hora: "16:00", estado: "finalizado" },
+    { local: "El Rincon", visitante: "San Lorenzo", cancha: "B", hora: "17:00", estado: "finalizado" },
+    { local: "Central Norte", visitante: "Arbol Verde", cancha: "C", hora: "18:00", estado: "finalizado" },
+    { local: "Andacollo", visitante: "Peñarol", cancha: "A", hora: "19:00", estado: "finalizado" },
+    { local: "Niquivil", visitante: "Racing", cancha: "B", hora: "20:00" , estado: "finalizado"},
+    { local: "Florida", visitante: "Pampa Vieja", cancha: "C", hora: "21:00", estado: "finalizado" }
   ]
 };
 
@@ -61,11 +61,15 @@ function mostrarFecha(fecha) {
   contenedor.innerHTML = "";
 
   fechas[fecha].forEach(p => {
-    const local = obtenerEquipo(p.local);
-    const visitante = obtenerEquipo(p.visitante);
+  const local = obtenerEquipo(p.local);
+  const visitante = obtenerEquipo(p.visitante);
 
-    contenedor.innerHTML += `
-      <div class="partido-card">
+  contenedor.innerHTML += `
+    <div class="partido-card">
+
+      <div class="estado ${p.estado}">
+        ${p.estado.toUpperCase()}
+      </div>
         <div class="equipos">
           <div class="team">
             <img src="${local.escudo}">
