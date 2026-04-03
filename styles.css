@@ -358,7 +358,7 @@ footer {
   height: auto;
   filter: grayscale(100%);
   opacity: 0.8;
-  transition: 0.3s;
+  transition: 0.2s;
 }
 
 .sponsors-container img:hover {
@@ -371,7 +371,7 @@ footer {
 }
 
 .sponsors-container img {
-  animation: scroll 10s linear infinite;
+  animation: scroll 15s linear infinite;
 }
 
 @keyframes scroll {
