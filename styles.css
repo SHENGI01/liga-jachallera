@@ -336,3 +336,45 @@ footer {
   background: #ffaa00;
   color: black;
 }
+.sponsors {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.sponsors h3 {
+  color: #00ff88;
+  margin-bottom: 15px;
+}
+
+.sponsors-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.sponsors-container img {
+  width: 120px;
+  height: auto;
+  filter: grayscale(100%);
+  opacity: 0.8;
+  transition: 0.3s;
+}
+
+.sponsors-container img:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+  transform: scale(1.05);
+}
+.sponsors-container {
+  overflow: hidden;
+}
+
+.sponsors-container img {
+  animation: scroll 10s linear infinite;
+}
+
+@keyframes scroll {
+  from { transform: translateX(0); }
+  to { transform: translateX(-100px); }
+}
