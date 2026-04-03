@@ -409,3 +409,6 @@ footer {
     transform: translateX(-50%);
   }
 }
+.slider:hover .slide-track {
+  animation-play-state: paused;
+}
