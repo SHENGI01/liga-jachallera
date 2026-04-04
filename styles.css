@@ -383,10 +383,10 @@ footer {
   width: 100%;
 }
 
-.slide-track {
+  .slide-track {
   display: flex;
-  width: max-content; /* 🔥 IMPORTANTE */
-  animation: scroll 20s linear infinite;
+  gap: 10px; /* 👈 controlás el espacio acá */
+}
 }
 
 .slide-track img {
