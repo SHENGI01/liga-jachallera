@@ -358,7 +358,7 @@ footer {
   height: auto;
   filter: grayscale(100%);
   opacity: 0.8;
-  transition: 0.2s;
+  transition: 0.0s;
 }
 
 .sponsors-container img:hover {
@@ -386,7 +386,7 @@ footer {
 .slide-track {
   display: flex;
   width: max-content; /* 🔥 IMPORTANTE */
-  animation: scroll 30s linear infinite;
+  animation: scroll 20s linear infinite;
 }
 
 .slide-track img {
