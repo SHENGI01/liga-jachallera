@@ -231,6 +231,26 @@ btnGoleadores.onclick = () => {
   secGoleadores.style.display = "block";
   activarBoton(btnGoleadores);
 };
+const track = document.getElementById("track");
+
+// duplicar contenido automáticamente
+track.innerHTML += track.innerHTML;
+
+let position = 0;
+
+function animar() {
+  position -= 0.5; // velocidad
+
+  if (position <= -track.scrollWidth / 2) {
+    position = 0;
+  }
+
+  track.style.transform = `translateX(${position}px)`;
+
+  requestAnimationFrame(animar);
+}
+
+animar();
 
 // =====================
 // INICIO
