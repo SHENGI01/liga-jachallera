@@ -383,23 +383,28 @@ footer {
   width: 100%;
 }
 
-  .slide-track {
-  display: flex;
-  gap: 10px; /* 👈 controlás el espacio acá */
+.slider {
+  overflow: hidden;
+  width: 100%;
 }
+
+.slide-track {
+  display: flex;
+  gap: 10px;
+  width: max-content;
+  animation: scroll 25s linear infinite;
 }
 
 .slide-track img {
   width: 160px;
   height: 90px;
-  margin-right: 10px;
   border-radius: 10px;
   background: #fff;
   padding: 10px;
   object-fit: contain;
 }
 
-/* 🔥 ANIMACIÓN CORRECTA */
+/* 🔥 CAMBIO CLAVE */
 @keyframes scroll {
   from {
     transform: translateX(0);
