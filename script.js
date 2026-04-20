@@ -49,6 +49,14 @@ const fechas = {
     { local: "Andacollo", visitante: "Peñarol", cancha: "A", hora: "19:00", estado: "finalizado" },
     { local: "Niquivil", visitante: "Racing", cancha: "B", hora: "20:00" , estado: "finalizado"},
     { local: "Florida", visitante: "Pampa Vieja", cancha: "C", hora: "21:00", estado: "finalizado" }
+  ],
+    fecha4: [
+    { local: "Pampa", visitante: "Estrella", cancha: "A", hora: "16:00", estado: "finalizado" },
+    { local: "El Rincon", visitante: "San Lorenzo", cancha: "B", hora: "17:00", estado: "finalizado" },
+    { local: "Central Norte", visitante: "Arbol Verde", cancha: "C", hora: "18:00", estado: "finalizado" },
+    { local: "Andacollo", visitante: "Peñarol", cancha: "A", hora: "19:00", estado: "finalizado" },
+    { local: "Niquivil", visitante: "Racing", cancha: "B", hora: "20:00" , estado: "finalizado"},
+    { local: "Florida", visitante: "Pampa Vieja", cancha: "C", hora: "21:00", estado: "finalizado" }
   ]
 };
 
