@@ -121,32 +121,7 @@ const fechas = {
     { local: "Andacollo", visitante: "Arbol Verde", cancha: "A", hora: "19:00", estado: "finalizado" },
     { local: "Niquivil", visitante: "Pampa Vieja", cancha: "B", hora: "20:00", estado: "finalizado" },
     { local: "Florida", visitante: "Racing", cancha: "C", hora: "21:00", estado: "finalizado" }
-  ],
-  fecha13: [
-    { local: "Pampa", visitante: "San Lorenzo", cancha: "A", hora: "16:00", estado: "finalizado" },
-    { local: "El Rincon", visitante: "Estrella", cancha: "B", hora: "17:00", estado: "finalizado" },
-    { local: "Central Norte", visitante: "Peñarol", cancha: "C", hora: "18:00", estado: "finalizado" },
-    { local: "Andacollo", visitante: "Arbol Verde", cancha: "A", hora: "19:00", estado: "finalizado" },
-    { local: "Niquivil", visitante: "Pampa Vieja", cancha: "B", hora: "20:00", estado: "finalizado" },
-    { local: "Florida", visitante: "Racing", cancha: "C", hora: "21:00", estado: "finalizado" }
-  ],
-  fecha14: [
-    { local: "Pampa", visitante: "San Lorenzo", cancha: "A", hora: "16:00", estado: "finalizado" },
-    { local: "El Rincon", visitante: "Estrella", cancha: "B", hora: "17:00", estado: "finalizado" },
-    { local: "Central Norte", visitante: "Peñarol", cancha: "C", hora: "18:00", estado: "finalizado" },
-    { local: "Andacollo", visitante: "Arbol Verde", cancha: "A", hora: "19:00", estado: "finalizado" },
-    { local: "Niquivil", visitante: "Pampa Vieja", cancha: "B", hora: "20:00", estado: "finalizado" },
-    { local: "Florida", visitante: "Racing", cancha: "C", hora: "21:00", estado: "finalizado" }
-  ],
-  fecha15: [
-    { local: "Pampa", visitante: "San Lorenzo", cancha: "A", hora: "16:00", estado: "finalizado" },
-    { local: "El Rincon", visitante: "Estrella", cancha: "B", hora: "17:00", estado: "finalizado" },
-    { local: "Central Norte", visitante: "Peñarol", cancha: "C", hora: "18:00", estado: "finalizado" },
-    { local: "Andacollo", visitante: "Arbol Verde", cancha: "A", hora: "19:00", estado: "finalizado" },
-    { local: "Niquivil", visitante: "Pampa Vieja", cancha: "B", hora: "20:00", estado: "finalizado" },
-    { local: "Florida", visitante: "Racing", cancha: "C", hora: "21:00", estado: "finalizado" }
   ]
-
 };
 
 // =====================
