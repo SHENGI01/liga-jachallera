@@ -416,3 +416,7 @@ footer {
 .conteiner {
   overflow: hidden;
 }
+@median (max-width: 768px) {
+  .track {
+    animation: scroll 40s linear infinite,}
+}
