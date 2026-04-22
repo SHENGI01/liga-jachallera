@@ -170,7 +170,7 @@ const listaGoleadores = document.getElementById("lista-goleadores");
 
 const goleadores = [
   { nombre: "jugador", goles: 5 },
-  { nombre: "Jugador 2", goles: 4 },
+  { nombre: "Jugador 2", goles: 6 },
   { nombre: "Jugador 3", goles: 3 }
 ];
 
