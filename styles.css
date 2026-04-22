@@ -400,3 +400,16 @@ footer {
   padding: 10px;
   object-fit: contain;
 }
+.track img:hover {
+  transform: scale(1.05);
+}
+.track {
+  display: flex;
+  gap: 20px;
+  animation: scroll 25s linear infinite;
+}
+
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
