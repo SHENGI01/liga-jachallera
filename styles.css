@@ -94,7 +94,7 @@ nav a.activo {
 .track {
   display: flex;
   gap: 20px;
-  animation: scroll 45s linear infinite;
+  animation: scroll 15s linear infinite;
 }
 
 .track img {
@@ -406,7 +406,7 @@ footer {
 .track {
   display: flex;
   gap: 20px;
-  animation: scroll 45s linear infinite;
+  animation: scroll 15s linear infinite;
 }
 
 @keyframes scroll {
