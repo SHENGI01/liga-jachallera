@@ -388,7 +388,7 @@ footer {
 
 .slide-track {
   display: flex;
-  gap: 10px;
+  gap: 20px;
   width: max-content;
 }
 
@@ -401,7 +401,7 @@ footer {
   object-fit: contain;
 }
 .track img:hover {
-  transform: scale(1.05);
+  transform: scale(2.05);
 }
 .track {
   display: flex;
