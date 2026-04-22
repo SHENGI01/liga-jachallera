@@ -382,5 +382,12 @@ footer {
   }
 
 }
-
-
+.anuncios-slider {
+  overflow: hidden;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.track img {
+  max-width: 90vw; /* nunca más grande que la pantalla */
+}
