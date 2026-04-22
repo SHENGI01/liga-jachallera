@@ -98,10 +98,12 @@ nav a.activo {
 }
 
 .track img {
-  width: 100px;
-  background: white;
-  padding: 30px;
-  border-radius: 0px;
+ width: 220px; /* más grande */
+  height: 120px; /* tamaño tipo banner */
+  object-fit: cover; /* que rellene todo */
+  border-radius: 10px;
+  padding: 0; /* 🔥 elimina el borde blanco */
+  background: none; /* 🔥 elimina fondo blanco */
 }
 
 @keyframes scroll {
