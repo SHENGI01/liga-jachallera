@@ -116,13 +116,23 @@ nav a.activo {
   padding: 10px;
   border-bottom: 1px solid #333;
 }
-.fila {
-  display: grid;
-  grid-template-columns: 2fr 1fr 1fr 1fr;
-  padding: 8px;
-  border-bottom: 1px solid #ccc;
-  align-items: center;
-  text-align: center;
+@media (max-width: 768px) {
+
+  .fila {
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    font-size: 13px;
+    padding: 6px;
+  }
+
+  .fila img {
+    width: 20px;
+    height: 20px;
+  }
+
+  .encabezado {
+    font-size: 12px;
+  }
+
 }
 
 .fila span:first-child {
