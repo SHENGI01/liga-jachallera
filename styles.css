@@ -94,11 +94,11 @@ nav a.activo {
 .track {
   display: flex;
   gap: 20px;
-  animation: scroll 15s linear infinite;
+  animation: scroll 45s linear infinite;
 }
 
 .track img {
- width: 220px; /* más grande */
+ width: 320px; /* más grande */
   height: 120px; /* tamaño tipo banner */
   object-fit: cover; /* que rellene todo */
   border-radius: 10px;
