@@ -25,30 +25,30 @@ function obtenerEquipo(nombre) {
 // =====================
 const fechas = {
   fecha1: [
-    { local: "Pampa", visitante: "Pampa Vieja", golesL: 0, golesV: 0, cancha: "A", hora: "16:00", estado: "vivo" },
-    { local: "San Lorenzo", visitante: "Andacollo", golesL: 0, golesV: 0, cancha: "B", hora: "17:00" },
-    { local: "Central Norte", visitante: "Estrella", golesL: 0, golesV: 0, cancha: "C", hora: "18:00" },
-    { local: "Peñarol", visitante: "Arbol Verde", golesL: 0, golesV: 0, cancha: "A", hora: "19:00" },
-    { local: "Niquivil", visitante: "Florida", golesL: 0, golesV: 0, cancha: "B", hora: "20:00" },
-    { local: "El Rincon", visitante: "Racing", golesL: 0, golesV: 0, cancha: "C", hora: "21:00" }
+    { local: "Pampa", visitante: "Pampa Vieja", golesL: 0, golesV: 0, cancha: "A", hora: "16:00", estado: "proximo" },
+    { local: "San Lorenzo", visitante: "Andacollo", golesL: 0, golesV: 0, cancha: "B", hora: "17:00", estado: "proximo" },
+    { local: "Central Norte", visitante: "Estrella", golesL: 0, golesV: 0, cancha: "C", hora: "18:00",estado: "proximo" },
+    { local: "Peñarol", visitante: "Arbol Verde", golesL: 0, golesV: 0, cancha: "A", hora: "19:00", estado: "proximo" },
+    { local: "Niquivil", visitante: "Florida", golesL: 0, golesV: 0, cancha: "B", hora: "20:00", estado: "proximo" },
+    { local: "El Rincon", visitante: "Racing", golesL: 0, golesV: 0, cancha: "C", hora: "21:00",estado: "proximo" }
   ],
 
   fecha2: [
-    { local: "Pampa", visitante: "San Lorenzo", cancha: "A", hora: "16:00" },
-    { local: "El Rincon", visitante: "Estrella", cancha: "B", hora: "17:00" },
-    { local: "Central Norte", visitante: "Peñarol", cancha: "C", hora: "18:00" },
-    { local: "Andacollo", visitante: "Arbol Verde", cancha: "A", hora: "19:00" },
-    { local: "Niquivil", visitante: "Pampa Vieja", cancha: "B", hora: "20:00" },
-    { local: "Florida", visitante: "Racing", cancha: "C", hora: "21:00" }
+    { local: "Pampa", visitante: "San Lorenzo", cancha: "A", hora: "16:00",estado: "proximo" },
+    { local: "El Rincon", visitante: "Estrella", cancha: "B", hora: "17:00",estado: "proximo" },
+    { local: "Central Norte", visitante: "Peñarol", cancha: "C", hora: "18:00",estado: "proximo" },
+    { local: "Andacollo", visitante: "Arbol Verde", cancha: "A", hora: "19:00", estado: "proximo"},
+    { local: "Niquivil", visitante: "Pampa Vieja", cancha: "B", hora: "20:00",estado: "proximo" },
+    { local: "Florida", visitante: "Racing", cancha: "C", hora: "21:00",estado: "proximo" }
   ],
 
   fecha3: [
-    { local: "Pampa", visitante: "Estrella", cancha: "A", hora: "16:00" },
-    { local: "El Rincon", visitante: "San Lorenzo", cancha: "B", hora: "17:00" },
-    { local: "Central Norte", visitante: "Arbol Verde", cancha: "C", hora: "18:00" },
-    { local: "Andacollo", visitante: "Peñarol", cancha: "A", hora: "19:00" },
-    { local: "Niquivil", visitante: "Racing", cancha: "B", hora: "20:00" },
-    { local: "Florida", visitante: "Pampa Vieja", cancha: "C", hora: "21:00" }
+    { local: "Pampa", visitante: "Estrella", cancha: "A", hora: "16:00",estado: "proximo" },
+    { local: "El Rincon", visitante: "San Lorenzo", cancha: "B", hora: "17:00",estado: "proximo" },
+    { local: "Central Norte", visitante: "Arbol Verde", cancha: "C", hora: "18:00",estado: "proximo" },
+    { local: "Andacollo", visitante: "Peñarol", cancha: "A", hora: "19:00",estado: "proximo" },
+    { local: "Niquivil", visitante: "Racing", cancha: "B", hora: "20:00",estado: "proximo" },
+    { local: "Florida", visitante: "Pampa Vieja", cancha: "C", hora: "21:00",estado: "proximo" }
   ]
 };
 
