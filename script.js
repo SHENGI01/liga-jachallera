@@ -66,6 +66,11 @@ function mostrarFecha(fecha) {
 
     contenedor.innerHTML += `
       <div class="partido-card">
+      
+    <div class="estado ${p.estado || 'finalizado'}">
+      ${(p.estado || 'finalizado').toUpperCase()}
+    </div>
+    
         <div class="equipos">
           <div class="team">
             <img src="${local.escudo}">
