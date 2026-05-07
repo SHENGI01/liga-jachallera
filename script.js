@@ -25,12 +25,12 @@ function obtenerEquipo(nombre) {
 // =====================
 const fechas = {
   fecha1: [
-    { local: "Pampa", visitante: "El Rincon", golesL: 0, golesV: 0, cancha: "A", hora: "16:00" },
-    { local: "San Lorenzo", visitante: "Estrella", golesL: 1, golesV: 2, cancha: "B", hora: "17:00" },
-    { local: "Central Norte", visitante: "Andacollo", golesL: 3, golesV: 0, cancha: "C", hora: "18:00" },
-    { local: "Peñarol", visitante: "Arbol Verde", golesL: 0, golesV: 3, cancha: "A", hora: "19:00" },
-    { local: "Niquivil", visitante: "Florida", golesL: 2, golesV: 2, cancha: "B", hora: "20:00" },
-    { local: "Pampa Vieja", visitante: "Racing", golesL: 1, golesV: 3, cancha: "C", hora: "21:00" }
+    { local: "Pampa", visitante: "Pampa Vieja", golesL: 0, golesV: 0, cancha: "A", hora: "16:00" },
+    { local: "San Lorenzo", visitante: "Andacollo", golesL: 0, golesV: 0, cancha: "B", hora: "17:00" },
+    { local: "Central Norte", visitante: "Estrella", golesL: 0, golesV: 0, cancha: "C", hora: "18:00" },
+    { local: "Peñarol", visitante: "Arbol Verde", golesL: 0, golesV: 0, cancha: "A", hora: "19:00" },
+    { local: "Niquivil", visitante: "Florida", golesL: 0, golesV: 0, cancha: "B", hora: "20:00" },
+    { local: "El Rincon", visitante: "Racing", golesL: 0, golesV: 0, cancha: "C", hora: "21:00" }
   ],
 
   fecha2: [
