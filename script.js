@@ -25,12 +25,12 @@ function obtenerEquipo(nombre) {
 // =====================
 const fechas = {
   fecha1: [
-    { local: "Pampa", visitante: "Pampa Vieja", golesL: 0, golesV: 0, cancha: "A", hora: "16:00", estado: "proximo" },
-    { local: "San Lorenzo", visitante: "Andacollo", golesL: 0, golesV: 0, cancha: "B", hora: "17:00", estado: "proximo" },
-    { local: "Central Norte", visitante: "Estrella", golesL: 0, golesV: 0, cancha: "C", hora: "18:00",estado: "proximo" },
-    { local: "Peñarol", visitante: "Arbol Verde", golesL: 0, golesV: 0, cancha: "A", hora: "19:00", estado: "proximo" },
-    { local: "Niquivil", visitante: "Florida", golesL: 0, golesV: 0, cancha: "B", hora: "20:00", estado: "proximo" },
-    { local: "El Rincon", visitante: "Racing", golesL: 0, golesV: 0, cancha: "C", hora: "21:00",estado: "proximo" }
+    { local: "Pampa", visitante: "Pampa Vieja", golesL: 0, golesV: 0, cancha: "racing", hora: "14:00", estado: "proximo" },
+    { local: "San Lorenzo", visitante: "Andacollo", golesL: 0, golesV: 0, cancha: "niquivil", hora: "14:00", estado: "proximo" },
+    { local: "Central Norte", visitante: "Estrella", golesL: 0, golesV: 0, cancha: "arbol verde", hora: "14:00",estado: "proximo" },
+    { local: "Peñarol", visitante: "Arbol Verde", golesL: 0, golesV: 0, cancha: "arbol verde", hora: "16:00", estado: "proximo" },
+    { local: "Niquivil", visitante: "Florida", golesL: 0, golesV: 0, cancha: "niquivil", hora: "16:00", estado: "proximo" },
+    { local: "El Rincon", visitante: "Racing", golesL: 0, golesV: 0, cancha: "racing", hora: "16:00",estado: "proximo" }
   ],
 
   fecha2: [
