@@ -93,7 +93,7 @@ const categorias = {
       { nombre: "Peñarol", escudo: "imagenes/10.png" },
       { nombre: "Florida", escudo: "imagenes/8.png" },
       { nombre: "Estrella", escudo: "imagenes/3.png" },
-      { nombre: "Racing", escudo: "imagenes/6.png" }
+      { nombre: "Racing", escudo: "imagenes/6.png" },
       { nombre: "Independiente", escudo: "imagenes/4b.png" }
     ],
 
