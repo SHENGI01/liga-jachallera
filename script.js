@@ -45,16 +45,16 @@ const categorias = {
   segunda: {
 
     equipos: [
-      { nombre: "San Martin", escudo: "equiposb/1b.png" },
-      { nombre: "La Frontera", escudo: "equiposb/2b.png" },
-      { nombre: "San Roque", escudo: "equiposb/3b.png" },
-      { nombre: "Independiente", escudo: "equiposb/4b.png" },
-      { nombre: "San Blas", escudo: "equiposb/5b.png" },
-      { nombre: "Otra Banda", escudo: "equiposb/6b.png" },
-      { nombre: "Huaco", escudo: "equiposb/7b.png" },
-      { nombre: "Boca del Medano", escudo: "equiposb/8b.png" },
-      { nombre: "Calle Varas", escudo: "equiposb/9b.png" },
-      { nombre: "La Falda", escudo: "equiposb/10b.png" }
+      { nombre: "San Martin", escudo: "imagenes/1b.png" },
+      { nombre: "La Frontera", escudo: "imagenes/2b.png" },
+      { nombre: "San Roque", escudo: "imagenes/3b.png" },
+      { nombre: "Independiente", escudo: "imagenes/4b.png" },
+      { nombre: "San Blas", escudo: "imagenes/5b.png" },
+      { nombre: "Otra Banda", escudo: "imagenes/6b.png" },
+      { nombre: "Huaco", escudo: "imagenes/7b.png" },
+      { nombre: "Boca del Medano", escudo: "imagenes/8b.png" },
+      { nombre: "Calle Varas", escudo: "imagenes/9b.png" },
+      { nombre: "La Falda", escudo: "imagenes/10b.png" }
     ],
 
     fechas: {
