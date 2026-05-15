@@ -166,7 +166,7 @@ nav a.activo {
 
 .track img {
   width: 360px;
-  height: 190px;
+  height: 250px;
   object-fit: cover;
   border-radius: 10px;
   transition: 0.3s;
