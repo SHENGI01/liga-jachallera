@@ -203,7 +203,7 @@ nav a.activo {
 @media (max-width: 768px) {
 
   .track {
-    gap: 5px;
+    gap: 2px;
     animation: scrollInfinito 45s linear infinite;
   }
 
