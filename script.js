@@ -223,7 +223,7 @@ function generarTabla() {
       const local = stats[p.local];
       const visitante = stats[p.visitante];
 
-      if (!local || !visitante) return;
+     if (p.golesL == null || p.golesV == null) return;
 
       local.gf += p.golesL;
       local.gc += p.golesV;
