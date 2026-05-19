@@ -93,9 +93,9 @@ const categorias = {
     fechas: {
 
       fecha1: [
-        { local: "Pampa", visitante: "Andacollo", golesL: 0, golesV: 0, cancha: "D", hora: "15:00", estado: "proximo" },
-        { local: "Peñarol", visitante: "Florida", golesL: 0, golesV: 0, cancha: "E", hora: "17:00", estado: "proximo" },
-        { local: "Estrella", visitante: "Racing", golesL: 0, golesV: 0, cancha: "E", hora: "17:00", estado: "proximo" }
+        { local: "Pampa", visitante: "Andacollo", cancha: "D", hora: "15:00", estado: "proximo" },
+        { local: "Peñarol", visitante: "Florida", cancha: "E", hora: "17:00", estado: "proximo" },
+        { local: "Estrella", visitante: "Racing", cancha: "E", hora: "17:00", estado: "proximo" }
       ]
 
     },
