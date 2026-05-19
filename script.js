@@ -24,12 +24,12 @@ const categorias = {
     fechas: {
 
       fecha1: [
-        { local: "Pampa", visitante: "Pampa Vieja", golesL: 0, golesV: 0, cancha: "racing", hora: "14:00", estado: "proximo" },
-        { local: "San Lorenzo", visitante: "Andacollo", golesL: 0, golesV: 0, cancha: "niquivil", hora: "14:00", estado: "proximo" },
-        { local: "Central Norte", visitante: "Estrella", golesL: 0, golesV: 0, cancha: "arbol verde", hora: "14:00", estado: "proximo" },
-        { local: "Peñarol", visitante: "Arbol Verde", golesL: 0, golesV: 0, cancha: "arbol verde", hora: "17:00", estado: "proximo" },
-        { local: "Niquivil", visitante: "Florida", golesL: 0, golesV: 0, cancha: "niquivil", hora: "17:00", estado: "proximo" },
-        { local: "El Rincon", visitante: "Racing", golesL: 0, golesV: 0, cancha: "racing", hora: "17:00", estado: "proximo" }
+        { local: "Pampa", visitante: "Pampa Vieja", cancha: "racing", hora: "14:00", estado: "proximo" },
+        { local: "San Lorenzo", visitante: "Andacollo",cancha: "niquivil", hora: "14:00", estado: "proximo" },
+        { local: "Central Norte", visitante: "Estrella", cancha: "arbol verde", hora: "14:00", estado: "proximo" },
+        { local: "Peñarol", visitante: "Arbol Verde",cancha: "arbol verde", hora: "17:00", estado: "proximo" },
+        { local: "Niquivil", visitante: "Florida",cancha: "niquivil", hora: "17:00", estado: "proximo" },
+        { local: "El Rincon", visitante: "Racing", cancha: "racing", hora: "17:00", estado: "proximo" }
       ]
 
     },
