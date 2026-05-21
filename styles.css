@@ -166,11 +166,11 @@ nav a.activo {
 
 .track img {
   width: 420px;
-  height: 240px;
-  object-fit: cover;
+  height: 320px;
+  object-fit: contain;
   border-radius: 12px;
   padding: 0;
-  background: none;
+  background: #000;
   display: block;
   flex-shrink: 0;
 }
@@ -211,11 +211,12 @@ nav a.activo {
 
   .track img {
     width: 100vw;
-    height: 260px;
-    object-fit: cover;
+    height: 320px;
+    object-fit: contain;
     border-radius: 14px;
     flex-shrink: 0;
     display: block;
+    background: #000;
   }
 
 }
@@ -233,11 +234,12 @@ nav a.activo {
 
   .track img {
     width: 100vw;
-    height: 240px;
-    object-fit: cover;
+    height: 320px;
+    object-fit: contain;
     border-radius: 14px;
     flex-shrink: 0;
     display: block;
+    background: #000;
   }
 
 }
