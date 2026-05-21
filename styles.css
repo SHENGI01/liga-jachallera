@@ -196,7 +196,7 @@ nav a.activo {
 @media (max-width: 768px) {
 
   .anuncios-slider {
-    width: 60%;
+    width: 100%;
     overflow: hidden;
     padding: 0;
   }
