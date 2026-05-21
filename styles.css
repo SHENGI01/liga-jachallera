@@ -200,26 +200,30 @@ nav a.activo {
    MOBILE
 ========================= */
 
-
-
 @media (max-width: 768px) {
+
+  .anuncios-slider {
+    width: 100%;
+    overflow: hidden;
+    padding: 5px 0;
+  }
 
   .track {
     display: flex;
     align-items: center;
-    gap: 1px;
+    gap: 2px;
     width: max-content;
     animation: scrollInfinito 45s linear infinite;
   }
 
   .track img {
-    width: 340px;
-    height: 190px;
+    width: 92vw;
+    height: 220px;
     object-fit: contain;
     border-radius: 12px;
     flex-shrink: 0;
-    background: transparent;
     display: block;
+    background: transparent;
   }
 
 }
@@ -231,25 +235,20 @@ nav a.activo {
 @media (max-width: 480px) {
 
   .track {
-    display: flex;
-    align-items: center;
-    gap: 1px;
-    width: max-content;
+    gap: 2px;
     animation: scrollInfinito 38s linear infinite;
   }
 
   .track img {
-    width: 320px;
-    height: 180px;
+    width: 94vw;
+    height: 200px;
     object-fit: contain;
     border-radius: 12px;
     flex-shrink: 0;
-    background: transparent;
     display: block;
   }
 
 }
-
 /* =========================
    TABLA
 ========================= */
