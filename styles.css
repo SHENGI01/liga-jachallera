@@ -210,7 +210,7 @@ nav a.activo {
   }
 
   .track img {
-    width: 95vw;
+    width: 100vw;
     height: 260px;
     object-fit: cover;
     border-radius: 14px;
@@ -232,7 +232,7 @@ nav a.activo {
   }
 
   .track img {
-    width: 96vw;
+    width: 100vw;
     height: 240px;
     object-fit: cover;
     border-radius: 14px;
