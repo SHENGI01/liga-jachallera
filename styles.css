@@ -153,7 +153,7 @@ nav a.activo {
 
 .anuncios-slider {
   overflow: hidden;
-  margin-top: 100px;
+  margin-top: 10px;
   width: 100%;
 }
 
@@ -537,14 +537,16 @@ footer {
   }
 
   .track {
-    gap: 12px;
-    animation: scrollInfinito 45s linear infinite;
-  }
+  gap: 12px;
+  animation: scrollInfinito 45s linear infinite;
+}
 
-  .track img {
-    width: 250px;
-    height: 150px;
-  }
+.track img {
+  width: 320px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 16px;
+}
 
   .dropdown-content {
     left: 50%;
@@ -597,14 +599,16 @@ footer {
     font-size: 16px;
   }
 
-  .track {
-    animation: scrollInfinito 38s linear infinite;
-  }
+.track {
+  animation: scrollInfinito 38s linear infinite;
+}
 
-  .track img {
-    width: 220px;
-    height: 75px;
-  }
+.track img {
+  width: 320px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 16px;
+}
 
   .fila {
     font-size: 12px;
