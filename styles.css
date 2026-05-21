@@ -173,12 +173,13 @@ nav a.activo {
 }
 
 .track img {
-  width: 300px;
-  height: 250px;
-  object-fit: contain;
-  background: #111;
+  width: 340px;
+  height: 190px;
+  object-fit: cover;
   border-radius: 10px;
-  transition: 0.3s;
+  padding: 0;
+  background: none;
+  display: block;
   flex-shrink: 0;
 }
 
@@ -203,15 +204,17 @@ nav a.activo {
 @media (max-width: 768px) {
 
   .track {
-  gap: 4px;
-  animation: scrollInfinito 45s linear infinite;
-}
+    gap: 8px;
+    animation: scrollInfinito 45s linear infinite;
+  }
 
-.track img {
-  width: 200px;
-  height: 160px;
-  object-fit: contain;
-}
+  .track img {
+    width: 320px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 10px;
+    flex-shrink: 0;
+  }
 
 }
 
@@ -222,15 +225,17 @@ nav a.activo {
 @media (max-width: 480px) {
 
   .track {
-  gap: 4px;
-  animation: scrollInfinito 38s linear infinite;
-}
+    gap: 6px;
+    animation: scrollInfinito 38s linear infinite;
+  }
 
-.track img {
-  width: 300px;
-  height: 230px;
-  object-fit: contain;
-}
+  .track img {
+    width: 300px;
+    height: 170px;
+    object-fit: cover;
+    border-radius: 10px;
+    flex-shrink: 0;
+  }
 
 }
 
