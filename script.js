@@ -27,9 +27,9 @@ const categorias = {
         { local: "Pampa", visitante: "Pampa Vieja", cancha: "racing", hora: "14:00", estado: "proximo" },
         { local: "San Lorenzo", visitante: "Andacollo",cancha: "niquivil", hora: "14:00", estado: "proximo" },
         { local: "Central Norte", visitante: "Estrella", cancha: "arbol verde", hora: "14:00", estado: "proximo" },
-        { local: "Peñarol", visitante: "Arbol Verde",cancha: "arbol verde", hora: "17:00", estado: "proximo" },
-        { local: "Niquivil", visitante: "Florida",cancha: "niquivil", hora: "17:00", estado: "proximo" },
-        { local: "El Rincon", visitante: "Racing", cancha: "racing", hora: "17:00", estado: "proximo" }
+        { local: "Peñarol", visitante: "Arbol Verde",cancha: "arbol verde", hora: "16:00", estado: "proximo" },
+        { local: "Niquivil", visitante: "Florida",cancha: "niquivil", hora: "16:00", estado: "proximo" },
+        { local: "El Rincon", visitante: "Racing", cancha: "racing", hora: "16:00", estado: "proximo" }
       ]
 
     },
