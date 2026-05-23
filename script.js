@@ -61,7 +61,7 @@ const categorias = {
 
       fecha1: [
         { local: "La Frontera", visitante: "Independiente",cancha: "pampa", hora: "16:30", estado: "proximo" },
-        { local: "San Martin", visitante: "Boca del Medano", golesL: 2, golesV: 1, cancha: "pampa", hora: "14:00", estado: "finalizo" },
+        { local: "San Martin", visitante: "Boca del Medano", golesL: 2, golesV: 1, cancha: "pampa", hora: "14:00", estado: "finalizado" },
         { local: "La Falda", visitante: "Otra Banda",cancha: "la falda", hora: "16:30", estado: "proximo" },
         { local: "San Blas", visitante: "San Roque",golesL: 0, golesV: 0, cancha: "la falda", hora: "14:00", estado: "finalizado" },
         { local: "Calle Varas", visitante: "Huaco",cancha: "libre", hora: "libre", estado: "libres" }
@@ -73,6 +73,7 @@ const categorias = {
     goleadores: [
       { nombre: "Yamil Muñoz", goles: 1 },
       { nombre: "Sergio Carbajal", goles: 1 },
+      { nombre: "jugador", goles: 1 },
       { nombre: "Jugador 3", goles: 0 }
     ]
 
