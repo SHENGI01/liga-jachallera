@@ -60,9 +60,9 @@ const categorias = {
     fechas: {
 
       fecha1: [
-        { local: "La Frontera", visitante: "Independiente",cancha: "pampa", hora: "16:30", estado: "proximo" },
+        { local: "La Frontera", visitante: "Independiente",cancha: "pampa",golesL: 0, golesV: 0, hora: "16:30", estado: "vivo" },
         { local: "San Martin", visitante: "Boca del Medano", golesL: 2, golesV: 1, cancha: "pampa", hora: "14:00", estado: "finalizado" },
-        { local: "La Falda", visitante: "Otra Banda",cancha: "la falda", hora: "16:30", estado: "proximo" },
+        { local: "La Falda", visitante: "Otra Banda",golesL: 0, golesV: 0,cancha: "la falda", hora: "16:30", estado: "vivo" },
         { local: "San Blas", visitante: "San Roque",golesL: 0, golesV: 0, cancha: "la falda", hora: "14:00", estado: "finalizado" },
         { local: "Calle Varas", visitante: "Huaco",cancha: "libre", hora: "libre", estado: "libres" }
       ],
