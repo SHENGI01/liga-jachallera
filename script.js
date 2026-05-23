@@ -75,7 +75,7 @@ const categorias = {
       { nombre: "Sergio Carbajal", goles: 1 },
       { nombre: "Emanuel Cabanay", goles: 1 },
       { nombre: "Bautista Carrizo", goles: 1 },
-      { nombre: "jugador", goles: 1 }
+      { nombre: "Facundo Balmaceda", goles: 1 }
     ]
 
   },
