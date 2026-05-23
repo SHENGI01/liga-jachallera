@@ -71,7 +71,7 @@ const categorias = {
     },
 
     goleadores: [
-      { nombre: "Jugador 1", goles: 1 },
+      { nombre: "Yamil Muñoz", goles: 1 },
       { nombre: "Jugador 2", goles: 0 },
       { nombre: "Jugador 3", goles: 0 }
     ]
