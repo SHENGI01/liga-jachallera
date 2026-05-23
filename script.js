@@ -61,7 +61,7 @@ const categorias = {
 
       fecha1: [
         { local: "La Frontera", visitante: "Independiente",cancha: "pampa", hora: "16:00", estado: "proximo" },
-        { local: "San Martin", visitante: "Boca del Medano", golesL: 0, golesV: 0, cancha: "pampa", hora: "14:00", estado: "vivo" },
+        { local: "San Martin", visitante: "Boca del Medano", golesL: 1, golesV: 0, cancha: "pampa", hora: "14:00", estado: "vivo" },
         { local: "La Falda", visitante: "Otra Banda",cancha: "la falda", hora: "16:00", estado: "proximo" },
         { local: "San Blas", visitante: "San Roque",golesL: 0, golesV: 0, cancha: "la falda", hora: "14:00", estado: "vivo" },
         { local: "Calle Varas", visitante: "Huaco",cancha: "libre", hora: "libre", estado: "libres" }
@@ -71,7 +71,7 @@ const categorias = {
     },
 
     goleadores: [
-      { nombre: "Jugador 1", goles: 0 },
+      { nombre: "Jugador 1", goles: 1 },
       { nombre: "Jugador 2", goles: 0 },
       { nombre: "Jugador 3", goles: 0 }
     ]
