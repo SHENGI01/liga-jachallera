@@ -72,7 +72,7 @@ const categorias = {
 
     goleadores: [
       { nombre: "Yamil Muñoz", goles: 1 },
-      { nombre: "Jugador 2", goles: 0 },
+      { nombre: "Sergio Carbajal", goles: 1 },
       { nombre: "Jugador 3", goles: 0 }
     ]
 
