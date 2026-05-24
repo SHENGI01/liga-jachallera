@@ -37,7 +37,8 @@ const categorias = {
     goleadores: [
       { nombre: "Gaston Diaz", goles: 1 },
       { nombre: "Michel Garcia", goles: 1 },
-      { nombre: "Marcos Luna", goles: 1 }
+      { nombre: "Marcos Luna", goles: 1 },
+      { nombre: "Lucas Suesa", goles: 1 }
     ]
 
   },
