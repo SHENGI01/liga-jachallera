@@ -29,7 +29,7 @@ const categorias = {
         { local: "Central Norte", visitante: "Estrella",golesL: 0, golesV: 1, cancha: "arbol verde", hora: "14:00", estado: "finalizado" },
         { local: "Peñarol", visitante: "Arbol Verde",golesL: 1, golesV: 2,cancha: "arbol verde", hora: "16:30", estado: "vivo" },
         { local: "Niquivil", visitante: "Florida",golesL: 2, golesV: 1,cancha: "niquivil", hora: "16:30", estado: "finalizado" },
-        { local: "El Rincon", visitante: "Racing",golesL: 1, golesV: 0, cancha: "racing", hora: "16:30", estado: "finalizado" }
+        { local: "El Rincon", visitante: "Racing",golesL: 2, golesV: 2, cancha: "racing", hora: "16:30", estado: "finalizado" }
       ]
 
     },
