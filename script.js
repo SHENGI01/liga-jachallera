@@ -73,6 +73,7 @@ const categorias = {
     goleadores: [
       { nombre: "Yamil Muñoz", goles: 1 },
       { nombre: "Sergio Carbajal", goles: 1 },
+      { nombre: "Cristian Bordon", goles: 1 },
       { nombre: "Emanuel Cabanay", goles: 1 },
       { nombre: "Bautista Carrizo", goles: 1 },
       { nombre: "Facundo Balmaceda", goles: 1 },
