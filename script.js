@@ -27,7 +27,7 @@ const categorias = {
         { local: "Pampa", visitante: "Pampa Vieja",golesL: 2, golesV: 0, cancha: "racing", hora: "14:00", estado: "finalizado" },
         { local: "San Lorenzo", visitante: "Andacollo",golesL: 0, golesV: 0,cancha: "niquivil", hora: "14:00", estado: "finalizado" },
         { local: "Central Norte", visitante: "Estrella",golesL: 0, golesV: 1, cancha: "arbol verde", hora: "14:00", estado: "finalizado" },
-        { local: "Peñarol", visitante: "Arbol Verde",golesL: 0, golesV: 2,cancha: "arbol verde", hora: "16:30", estado: "vivo" },
+        { local: "Peñarol", visitante: "Arbol Verde",golesL: 1, golesV: 2,cancha: "arbol verde", hora: "16:30", estado: "vivo" },
         { local: "Niquivil", visitante: "Florida",golesL: 2, golesV: 1,cancha: "niquivil", hora: "16:30", estado: "finalizado" },
         { local: "El Rincon", visitante: "Racing",golesL: 1, golesV: 0, cancha: "racing", hora: "16:30", estado: "finalizado" }
       ]
@@ -39,7 +39,8 @@ const categorias = {
       { nombre: "Michel Garcia", goles: 1 },
       { nombre: "Marcos Luna", goles: 1 },
       { nombre: "Lucas Suesa", goles: 1 },
-      { nombre: "Lucas Nievas", goles: 1 }
+      { nombre: "Lucas Nievas", goles: 1 },
+{ nombre: "Eduardo Felix", goles: 1 }
     ]
 
   },
