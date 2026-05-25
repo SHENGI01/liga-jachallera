@@ -42,7 +42,8 @@ const categorias = {
       { nombre: "Lucas Nievas", goles: 1 },
    { nombre: "Eduardo Felix", goles: 1 },
      { nombre: "Jere Neira", goles: 1 },
-   { nombre: "Mascota Juares", goles: 1 }
+   { nombre: "Mascota Juares", goles: 1 },
+{ nombre: "Nicolas Paez", goles: 1 }
     ]
 
   },
