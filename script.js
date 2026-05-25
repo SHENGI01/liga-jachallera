@@ -42,10 +42,11 @@ const categorias = {
       { nombre: "Lucas Nievas", goles: 1 },
    { nombre: "Eduardo Felix", goles: 1 },
      { nombre: "Jere Neira", goles: 1 },
-   { nombre: "Mascota Juares", goles: 1 },
+   { nombre: "Brian Juares", goles: 1 },
 { nombre: "Nicolas Paez", goles: 1 },
 { nombre: "Marcelo Perez", goles: 1 },
-{ nombre: "Gaston Diaz", goles: 1 }
+{ nombre: "Gaston Diaz", goles: 1 },
+{ nombre: "Erick Perez", goles: 1 }
     ]
 
   },
