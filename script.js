@@ -31,15 +31,7 @@ const categorias = {
         { local: "Niquivil", visitante: "Florida",golesL: 1, golesV: 2,cancha: "niquivil", hora: "16:30", estado: "finalizado" },
         { local: "El Rincon", visitante: "Racing",golesL: 2, golesV: 2, cancha: "racing", hora: "16:30", estado: "finalizado" }
       ],
-      fecha2: [
-        { local: "Pampa", visitante: "Andacollo",cancha: "pampa", hora: "16:30", estado: "proximo" },
-        { local: "Peñarol", visitante: "Racing",cancha: "pampa", hora: "14:00", estado: "proximo" },
-        { local: "San Lorenzo", visitante: "Niquivil",cancha: "florida", hora: "14:00", estado: "proximo" },
-        { local: "Florida", visitante: "Arbol Verde",cancha: "florida", hora: "16:30", estado: "proximo" },
-        { local: "Pampa Vieja", visitante: "Central Norte",cancha: "estrella", hora: "14:00", estado: "proximo" },
-        { local: "El Rincon", visitante: "Estrella",cancha: "estrella", hora: "16:30", estado: "proximo" }
-      ]
-
+  
     },
 
     goleadores: [
