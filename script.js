@@ -84,7 +84,7 @@ const categorias = {
         { local: "Calle Varas", visitante: "Huaco",cancha: "libre", hora: "libre", estado: "libres" }
       ],
  fecha2: [
-        { local: "San Martin", visitante: "Otra Banda",golesL: 0, golesV: 4,cancha: "huaco",hora: "14:00", estado: "vivo" },
+        { local: "San Martin", visitante: "Otra Banda",golesL: 0, golesV: 4,cancha: "huaco",hora: "14:00", estado: "finalizado" },
         { local: "Huaco", visitante: "San Blas", cancha: "huaco", hora: "16:30", estado: "proximo" },
         { local: "Calle Varas", visitante: "La Frontera",golesL: 2, golesV: 3,cancha: "hungaros", hora: "14:00", estado: "finalizado" },
         { local: "Independiente", visitante: "La Falda",cancha: "hungaros", hora: "16:30", estado: "proximo" },
