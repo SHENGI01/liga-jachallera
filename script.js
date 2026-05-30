@@ -100,8 +100,8 @@ const categorias = {
       { nombre: "Emanuel Cabanay", goles: 1 },
       { nombre: "Bautista Carrizo", goles: 1 },
       { nombre: "Facundo Balmaceda", goles: 1 },
-      { nombre: "Elias Aciar", goles: 1 }
-
+      { nombre: "Elias Aciar", goles: 1 },
+      { nombre: "  Cristian Pereira", goles: 1 }
     ]
 
   },
