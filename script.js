@@ -102,7 +102,7 @@ const categorias = {
       { nombre: "Bautista Carrizo", goles: 1 },
       { nombre: "Facundo Balmaceda", goles: 1 },
       { nombre: "Elias Aciar", goles: 1 },
-      { nombre: "isak castro", goles: 1 },
+      { nombre: "isac castro", goles: 1 },
       { nombre: "  Emiliano Diaz", goles: 1 }
     ]
 
