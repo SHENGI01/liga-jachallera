@@ -87,7 +87,7 @@ const categorias = {
         { local: "San Martin", visitante: "Otra Banda",golesL: 1, golesV: 6,cancha: "huaco",hora: "14:00", estado: "finalizado" },
         { local: "Huaco", visitante: "San Blas",golesL: 0, golesV: 1, cancha: "huaco", hora: "16:30", estado: "vivo" },
         { local: "Calle Varas", visitante: "La Frontera",golesL: 2, golesV: 3,cancha: "hungaros", hora: "14:00", estado: "finalizado" },
-        { local: "Independiente", visitante: "La Falda",golesL: 1, golesV: 1,cancha: "hungaros", hora: "16:30", estado: "vivo" },
+        { local: "Independiente", visitante: "La Falda",golesL: 1, golesV: 2,cancha: "hungaros", hora: "16:30", estado: "vivo" },
         { local: "San Roque", visitante: "Boca Del Medano",cancha: "libre", hora: "libre", estado: "libres" }
       ],
      
