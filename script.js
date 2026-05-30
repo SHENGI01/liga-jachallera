@@ -86,7 +86,7 @@ const categorias = {
  fecha2: [
         { local: "San Martin", visitante: "Otra Banda",golesL: 0, golesV: 1,cancha: "huaco",hora: "14:00", estado: "vivo" },
         { local: "Huaco", visitante: "San Blas", cancha: "huaco", hora: "16:30", estado: "proximo" },
-        { local: "Calle Varas", visitante: "La Frontera",golesL: 0, golesV: 0,cancha: "hungaros", hora: "14:00", estado: "vivo" },
+        { local: "Calle Varas", visitante: "La Frontera",golesL: 1, golesV: 0,cancha: "hungaros", hora: "14:00", estado: "vivo" },
         { local: "Independiente", visitante: "La Falda",cancha: "hungaros", hora: "16:30", estado: "proximo" },
         { local: "San Roque", visitante: "Boca Del Medano",cancha: "libre", hora: "libre", estado: "libres" }
       ],
@@ -100,7 +100,7 @@ const categorias = {
       { nombre: "Emanuel Cabanay", goles: 1 },
       { nombre: "Bautista Carrizo", goles: 1 },
       { nombre: "Facundo Balmaceda", goles: 1 },
-{ nombre: "Elias Aciar", goles: 1 }
+      { nombre: "Elias Aciar", goles: 1 }
 
     ]
 
