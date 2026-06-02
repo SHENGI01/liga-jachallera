@@ -56,7 +56,7 @@ const categorias = {
       { nombre: "Lucas Nievas", goles: 1, equipo: "Arbol Verde" },
       {nombre: "Eduardo Felis", goles: 1, equipo: "Peñarol" },
       { nombre: "Jere Neira", goles: 1, equipo:"Niquivil" },
-      { nombre: "Brian Juares", goles: 1, equipo: "Florida" },
+      { nombre: "Brian Juares", goles: 2, equipo: "Florida" },
       { nombre: "Nicolas Paez", goles: 1, equipo: "Florida" },
       { nombre: "Marcelo Perez", goles: 1, equipo: "Pampa" },
       { nombre: "Erick Perez", goles: 3, equipo: "Racing" },
