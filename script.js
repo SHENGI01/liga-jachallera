@@ -53,7 +53,7 @@ const categorias = {
         { local: "EL Rincon", visitante: "Andacollo",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
         { local: "San Lorenzo", visitante: "Arbol Verde",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
         { local: "Estrella", visitante: "Racing",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "Central Norte", visitante: "NIquivil",cancha: "sin definir", hora: "sin definir", estado: "proximo" }
+        { local: "Central Norte", visitante: "Niquivil",cancha: "sin definir", hora: "sin definir", estado: "proximo" }
     },
 
     goleadores: [
