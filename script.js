@@ -131,6 +131,7 @@ const categorias = {
       { nombre: "Elias Aciar", goles: 3, equipo:" Otra Banda" },
        { nombre: "Cristian Pereyra", goles: 1, equipo:"La Frontera" },
       { nombre: "Yamil Muñoz", goles: 1, equipo:"San Martin" },
+{ nombre: "Alexis Lopez", goles: 1, equipo:"San Martin" },
       { nombre: "Sergio Carbajal", goles: 1, equipo:"San Martin" },
       { nombre: "Cristian Bordon", goles: 1, equipo:"Boca del Medano" },
       { nombre: "Emanuel Cabanay", goles: 1, equipo:"Independiente" },
