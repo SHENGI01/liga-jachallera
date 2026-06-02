@@ -116,13 +116,7 @@ const categorias = {
         { local: "Independiente", visitante: "La Falda",golesL: 1, golesV: 2,cancha: "hungaros", hora: "16:30", estado: "finalizado" },
         { local: "San Roque", visitante: "Boca Del Medano",cancha: "libre", hora: "libre", estado: "libres" }
       ],
-      fecha3: [
-        { local: "La Frontera", visitante: "Boca Del Medano",,cancha: "san martin",hora: "14:00", estado: "proximo" },
-        { local: "San Martin", visitante: "San Roque",cancha: "san martin", hora: "16:30", estado: "proximo" },
-        { local: "Huaco", visitante: "La Falda",cancha: "peñarol", hora: "14:00", estado: "proximo" },
-        { local: "Independiente", visitante: "Calle Vara",cancha: "peñarol", hora: "16:30", estado: "proximo" },
-        { local: "San Blas", visitante: "Otra Banda",cancha: "libre", hora: "libre", estado: "libres" }
-      ],
+   
     },
 
     goleadores: [
