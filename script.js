@@ -39,21 +39,7 @@ const categorias = {
         { local: "Pampa Vieja", visitante: "Central Norte",golesL: 0, golesV: 3,cancha: "estrella", hora: "14:00", estado: "finalizado" },
         { local: "El Rincon", visitante: "Estrella",golesL: 0, golesV: 0,cancha: "estrella", hora: "16:30", estado: "finalizado" }
       ],
-       fecha3: [
-        { local: "San Lorenzo", visitante: "Florida",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "Peñarol", visitante: "Estrella",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "Central Norte", visitante: "Andacollo",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "Racing", visitante: "Arbol Verde",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "Pampa Vieja", visitante: "El Rincon",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "Pampa", visitante: "Niquivil",cancha: "sin definir", hora: "sin definir", estado: "proximo" }
-      ],
-      fecha4: [
-        { local: "Pampa", visitante: "Florida",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "Peñarol", visitante: "Pampa Vieja",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "EL Rincon", visitante: "Andacollo",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "San Lorenzo", visitante: "Arbol Verde",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "Estrella", visitante: "Racing",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "Central Norte", visitante: "Niquivil",cancha: "sin definir", hora: "sin definir", estado: "proximo" }
+      
     },
 
     goleadores: [
