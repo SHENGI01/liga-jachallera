@@ -79,7 +79,7 @@ const categorias = {
       { nombre: "Ever Ortiz", goles: 1, equipo:"Niquivil" },
       { nombre: "Lisandro Almazan", goles: 1, equipo:"San Lorenzo" },
       { nombre: "Leonel Jofre", goles: 1, equipo: "Racing" },
-      { nombre: "Marcelo Balmaceda", goles: 1, equipo:"Racing" },
+      { nombre: "Marcelo Balmaceda", goles: 1, equipo:"Estrella" },
        { nombre: "Santiago Castillo", goles: 1, equipo:"Andacollo" }
     ]
 
