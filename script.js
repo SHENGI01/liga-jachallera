@@ -47,7 +47,7 @@ const categorias = {
       { nombre: " Javier Oro", goles: 2, equipo:"Central Norte" },
        { nombre: " Nestor Celan", goles: 2, equipo:"Arbol Verde" },
        { nombre: " Federico Gomez", goles: 1, equipo:"Arbol Verde" },
-      { nombre: "Michel Garcia", goles: 1, equipo: "Pampa" },
+      { nombre: "Michel Garcia", goles: 2, equipo: "Pampa" },
       { nombre: "Ezequiel Olivares", goles: 1, equipo:"Central Norte" },
       { nombre: "Bruno Abalo", goles: 1, equipo:"San Lorenzo" },
       { nombre: "Gaston Dogonik", goles: 1, equipo:"San Lorenzo" },
