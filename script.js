@@ -45,7 +45,7 @@ const categorias = {
         { local: "Central Norte", visitante: "Andacollo",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
         { local: "Racing", visitante: "Arbol Verde",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
         { local: "Pampa Vieja", visitante: "El Rincon",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "Pampa", visitante: "NIquivil",cancha: "sin definir", hora: "sin definir", estado: "proximo" }
+        { local: "Pampa", visitante: "Niquivil",cancha: "sin definir", hora: "sin definir", estado: "proximo" }
       ],
       fecha4: [
         { local: "Pampa", visitante: "Florida",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
