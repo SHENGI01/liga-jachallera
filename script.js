@@ -198,7 +198,7 @@ const categorias = {
      { nombre: "Alexis Lopez", goles: 1, equipo:"San Martin" },
       { nombre: "Sergio Carbajal", goles: 1, equipo:"San Martin" },
       { nombre: "Cristian Bordon", goles: 2, equipo:"Boca del Medano" },
-      { nombre: "Emanuel Cabanay", goles: 1, equipo:"Independiente" },
+      { nombre: "Emanuel Cabanay", goles: 2, equipo:"Independiente" },
       { nombre: "Bautista Carrizo", goles: 1, equipo:"La Falda" },
       { nombre: "Facundo Balmaceda", goles: 1,equipo:"La Falda" },
       { nombre: "isac castro", goles: 1, equipo:"Independiente" },
@@ -213,6 +213,7 @@ const categorias = {
       { nombre: "Alexis Perez", goles: 1, equipo:"Calle Varas" },
        { nombre: "Hernan Aballay", goles: 1, equipo:"La Frontera" },
         { nombre: "Ever Pizarro", goles: 1, equipo:"San Roque" },
+        { nombre: "Leonardo Fara", goles: 1, equipo:"Independiente" },
     ]
 
   },
