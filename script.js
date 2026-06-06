@@ -214,6 +214,7 @@ const categorias = {
        { nombre: "Hernan Aballay", goles: 1, equipo:"La Frontera" },
         { nombre: "Ever Pizarro", goles: 1, equipo:"San Roque" },
         { nombre: "Leonardo Fara", goles: 1, equipo:"Independiente" },
+        { nombre: "Dylan Aballay", goles: 1,equipo:"Huaco" },
     ]
 
   },
