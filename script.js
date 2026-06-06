@@ -181,7 +181,7 @@ const categorias = {
         { local: "San Roque", visitante: "Boca Del Medano",cancha: "libre", hora: "libre", estado: "libres" }
       ],
          fecha3: [
-        { local: "San Martin", visitante: "San Roque",golesL: 0, golesV: 0, cancha: "san martin", hora: "16:30", estado: "vivo" },
+        { local: "San Martin", visitante: "San Roque",golesL: 0, golesV: 1, cancha: "san martin", hora: "16:30", estado: "vivo" },
         { local: "Huaco", visitante: "La Falda",golesL: 1, golesV: 0, cancha: "peñarol", hora: "14:00", estado: "finalizado" },
         { local: "Boca Del Medano", visitante: "La Frontera",golesL: 1, golesV: 7, cancha: "san martin", hora: "14:00", estado: "finalizado" },
         { local: "Independiente", visitante: "Calle Varas", golesL: 1, golesV: 0,cancha: "peñarol", hora: "16:30", estado: "vivo" },
@@ -195,7 +195,7 @@ const categorias = {
       { nombre: "Elias Aciar", goles: 3, equipo:" Otra Banda" },
        { nombre: "Cristian Pereyra", goles: 1, equipo:"La Frontera" },
       { nombre: "Yamil Muñoz", goles: 1, equipo:"San Martin" },
-{ nombre: "Alexis Lopez", goles: 1, equipo:"San Martin" },
+     { nombre: "Alexis Lopez", goles: 1, equipo:"San Martin" },
       { nombre: "Sergio Carbajal", goles: 1, equipo:"San Martin" },
       { nombre: "Cristian Bordon", goles: 1, equipo:"Boca del Medano" },
       { nombre: "Emanuel Cabanay", goles: 1, equipo:"Independiente" },
