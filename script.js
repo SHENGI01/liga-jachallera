@@ -197,7 +197,7 @@ const categorias = {
       { nombre: "Yamil Muñoz", goles: 2, equipo:"San Martin" },
      { nombre: "Alexis Lopez", goles: 1, equipo:"San Martin" },
       { nombre: "Sergio Carbajal", goles: 1, equipo:"San Martin" },
-      { nombre: "Cristian Bordon", goles: 1, equipo:"Boca del Medano" },
+      { nombre: "Cristian Bordon", goles: 2, equipo:"Boca del Medano" },
       { nombre: "Emanuel Cabanay", goles: 1, equipo:"Independiente" },
       { nombre: "Bautista Carrizo", goles: 1, equipo:"La Falda" },
       { nombre: "Facundo Balmaceda", goles: 1,equipo:"La Falda" },
@@ -211,6 +211,8 @@ const categorias = {
       { nombre: "Luciano Vega", goles: 1, equipo:"La Frontera" },
       { nombre: "Yoel Olguin", goles: 1, equipo:"Calle Varas" },
       { nombre: "Alexis Perez", goles: 1, equipo:"Calle Varas" },
+       { nombre: "Hernan Aballay", goles: 1, equipo:"La Frontera" },
+        { nombre: "Ever Pizarro", goles: 1, equipo:"San Roque" },
     ]
 
   },
