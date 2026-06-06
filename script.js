@@ -181,9 +181,9 @@ const categorias = {
         { local: "San Roque", visitante: "Boca Del Medano",cancha: "libre", hora: "libre", estado: "libres" }
       ],
          fecha3: [
-        { local: "La Frontera", visitante: "Boca Del Medano",golesL: 0, golesV: 0, cancha: "san martin", hora: "14:00", estado: "proximo" },
+        { local: "La Frontera", visitante: "Boca Del Medano",golesL: 0, golesV: 0, cancha: "san martin", hora: "14:00", estado: "vivo" },
         { local: "San Martin", visitante: "San Roque", cancha: "san martin", hora: "16:30", estado: "proximo" },
-        { local: "Huaco", visitante: "La Falda",golesL: 0, golesV: 0, cancha: "peñarol", hora: "14:00", estado: "proximo" },
+        { local: "Huaco", visitante: "La Falda",golesL: 0, golesV: 0, cancha: "peñarol", hora: "14:00", estado: "vivo" },
         { local: "Independiente", visitante: "Calle Varas", cancha: "peñarol", hora: "16:30", estado: "proximo" },
         { local: "San Blas", visitante: "Otra Banda", cancha: "libre", hora: "libre", estado: "libres" }
       ]
