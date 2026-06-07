@@ -218,6 +218,8 @@ const categorias = {
        { nombre: "Miguel Roja", goles: 2, equipo:"La Frontera" },
        { nombre: "Omar Cortez", goles: 1, equipo:"La Frontera" },
        { nombre: "Florencio Perez", goles: 1, equipo:"La Frontera" },
+       { nombre: "Rolando Castillo", goles: 1, equipo:"La Frontera" },
+       { nombre: "Lucio Perez", goles: 1, equipo:"La Frontera" },
     ]
 
   },
