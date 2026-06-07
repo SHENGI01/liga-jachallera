@@ -212,9 +212,12 @@ const categorias = {
       { nombre: "Yoel Olguin", goles: 1, equipo:"Calle Varas" },
       { nombre: "Alexis Perez", goles: 1, equipo:"Calle Varas" },
        { nombre: "Hernan Aballay", goles: 1, equipo:"La Frontera" },
-        { nombre: "Ever Pizarro", goles: 1, equipo:"San Roque" },
+        { nombre: "Eber Pizarro", goles: 1, equipo:"San Roque" },
         { nombre: "Leonardo Fara", goles: 1, equipo:"Independiente" },
         { nombre: "Dylan Aballay", goles: 1,equipo:"Huaco" },
+       { nombre: "Miguel Roja", goles: 2, equipo:"La Frontera" },
+       { nombre: "Omar Cortez", goles: 1, equipo:"La Frontera" },
+       { nombre: "Florencio Perez", goles: 1, equipo:"La Frontera" },
     ]
 
   },
