@@ -45,7 +45,7 @@ const categorias = {
         { local: "Central Norte", visitante: "Andacollo",cancha: "andacollo", hora: "16:30", estado: "proximo" },
         { local: "Racing", visitante: "Arbol Verde",golesL: 0, golesV: 0cancha: "andacollo", hora: "14:00", estado: "vivo" },
         { local: "Pampa Vieja", visitante: "El Rincon",golesL: 0, golesV: 0cancha: "san lorenzo", hora: "14:00", estado: "vivo" },
-        { local: "Pampa", visitante: "Niquivil",golesL: 0, golesV: 0cancha: "peñarol", hora: "14:00", estado: "vivo" }
+        { local: "Pampa", visitante: "Niquivil",golesL: 1, golesV: 0cancha: "peñarol", hora: "14:00", estado: "vivo" }
       ],
       fecha4: [
         { local: "Pampa", visitante: "Florida",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
@@ -127,7 +127,7 @@ const categorias = {
       { nombre: " Javier Oro", goles: 2, equipo:"Central Norte" },
        { nombre: " Nestor Celan", goles: 2, equipo:"Arbol Verde" },
        { nombre: " Federico Gomez", goles: 1, equipo:"Arbol Verde" },
-      { nombre: "Michel Garcia", goles: 2, equipo: "Pampa" },
+      { nombre: "Michel Garcia", goles: 3, equipo: "Pampa" },
       { nombre: "Ezequiel Olivares", goles: 1, equipo:"Central Norte" },
       { nombre: "Bruno Abalo", goles: 1, equipo:"San Lorenzo" },
       { nombre: "Gaston Dogonik", goles: 1, equipo:"San Lorenzo" },
