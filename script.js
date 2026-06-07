@@ -139,7 +139,7 @@ const categorias = {
       { nombre: "Brian Juares", goles: 1, equipo: "Florida" },
       { nombre: "Nicolas Paez", goles: 1, equipo: "Florida" },
       { nombre: "Marcelo Perez", goles: 1, equipo: "Pampa" },
-      { nombre: "Erick Perez", goles: 3, equipo: "Racing" },
+      { nombre: "Erick Perez", goles: 5, equipo: "Racing" },
       { nombre: "Ever Ortiz", goles: 1, equipo:"Niquivil" },
       { nombre: "Lisandro Almazan", goles: 1, equipo:"San Lorenzo" },
       { nombre: "Leonel Jofre", goles: 1, equipo: "Racing" },
