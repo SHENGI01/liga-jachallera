@@ -145,6 +145,7 @@ const categorias = {
       { nombre: "Leonel Jofre", goles: 1, equipo: "Racing" },
       { nombre: "Marcelo Balmaceda", goles: 1, equipo:"Estrella" },
        { nombre: "Santiago Castillo", goles: 1, equipo:"Andacollo" },
+        { nombre: "Matias Montaño", goles: 1, equipo: "El Rincon" },
      
     ]
 
