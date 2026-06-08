@@ -141,7 +141,7 @@ const categorias = {
       { nombre: "Marcelo Perez", goles: 1, equipo: "Pampa" },
       { nombre: "Erick Perez", goles: 5, equipo: "Racing" },
       { nombre: "Ever Ortiz", goles: 1, equipo:"Niquivil" },
-      { nombre: "Lisandro Almazan", goles: 1, equipo:"San Lorenzo" },
+      { nombre: "Lisandro Almazan", goles: 2, equipo:"San Lorenzo" },
       { nombre: "Leonel Jofre", goles: 1, equipo: "Racing" },
       { nombre: "Marcelo Balmaceda", goles: 1, equipo:"Estrella" },
        { nombre: "Santiago Castillo", goles: 1, equipo:"Andacollo" },
