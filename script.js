@@ -125,7 +125,7 @@ const categorias = {
     goleadores: [
       { nombre: "Gaston Diaz", goles: 1, equipo: "El Rincon" },
       { nombre: " Javier Oro", goles: 2, equipo:"Central Norte" },
-       { nombre: " Nestor Celan", goles: 2, equipo:"Arbol Verde" },
+       { nombre: " Nestor Celan", goles: 3, equipo:"Arbol Verde" },
        { nombre: " Federico Gomez", goles: 1, equipo:"Arbol Verde" },
       { nombre: "Michel Garcia", goles: 3, equipo: "Pampa" },
       { nombre: "Ezequiel Olivares", goles: 1, equipo:"Central Norte" },
@@ -136,7 +136,7 @@ const categorias = {
       { nombre: "Lucas Nievas", goles: 1, equipo: "Arbol Verde" },
       {nombre: "Eduardo Felis", goles: 1, equipo: "Peñarol" },
       { nombre: "Jere Neira", goles: 1, equipo:"Niquivil" },
-      { nombre: "Brian Juares", goles: 1, equipo: "Florida" },
+      { nombre: "Brian Juares", goles: 2, equipo: "Florida" },
       { nombre: "Nicolas Paez", goles: 1, equipo: "Florida" },
       { nombre: "Marcelo Perez", goles: 1, equipo: "Pampa" },
       { nombre: "Erick Perez", goles: 5, equipo: "Racing" },
@@ -146,7 +146,7 @@ const categorias = {
       { nombre: "Marcelo Balmaceda", goles: 1, equipo:"Estrella" },
        { nombre: "Santiago Castillo", goles: 1, equipo:"Andacollo" },
         { nombre: "Matias Montaño", goles: 1, equipo: "El Rincon" },
-      {nombre: "Gonzalo Pasten", goles: 1, equipo: "Peñarol" }
+      {nombre: "Gonzalo Pasten", goles: 2, equipo: "Peñarol" }
      
     ]
 
