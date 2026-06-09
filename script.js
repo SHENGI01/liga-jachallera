@@ -190,7 +190,7 @@ const categorias = {
         { local: "Independiente", visitante: "Calle Varas", golesL: 2, golesV: 0,cancha: "peñarol", hora: "16:30", estado: "finalizado" },
         { local: "San Blas", visitante: "Otra Banda", cancha: "libre", hora: "libre", estado: "libres" }
            ],
-          fecha4: [
+       fecha4: [
         { local: "La Falda", visitante: "San Roque", cancha: "sin definir", hora: "sin definir", estado: "proximo" },
         { local: "Huaco", visitante: "Independiente", cancha: "sin definir", hora: "sin definir", estado: "proximo" },
         { local: "Boca del Medano", visitante: "La Frontera",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
