@@ -191,7 +191,7 @@ const categorias = {
         { local: "San Blas", visitante: "Otra Banda", cancha: "libre", hora: "libre", estado: "libres" }
            ],
        fecha4: [
-        { local: "La Falda", visitante: "San Roque",golesL: 3, golesV: 0, cancha: "la falda", hora: "14:00", estado: "vivo" },
+        { local: "La Falda", visitante: "San Roque",golesL: 3, golesV: 0, cancha: "la falda", hora: "14:00", estado: "finalizado" },
         { local: "Huaco", visitante: "Independiente",golesL: 0, golesV: 1, cancha: "arbol verde", hora: "14:00", estado: "finalizado" },
         { local: "Boca del Medano", visitante: "San Blas",cancha: "arbol verde", hora: "16:30", estado: "proximo" },
         { local: "Otra Banda", visitante: "Calle Varas", cancha: " la falda", hora: "16:30", estado: "proximo" },
