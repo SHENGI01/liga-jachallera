@@ -645,7 +645,7 @@ async function compartirPagina() {
 
             await navigator.share({
                 title: "Liga Jachallera 2026",
-                text: "¡Mira esta página!",
+                text: "¡Mira resultados aqui!",
                 url: window.location.href
             });
 
