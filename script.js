@@ -48,12 +48,12 @@ const categorias = {
         { local: "Pampa", visitante: "Niquivil",golesL: 1, golesV: 2, cancha:"peñarol", hora: "14:00", estado: "finalizado" }
       ],
       fecha4: [
-        { local: "Pampa", visitante: "Florida",cancha:"pampa", hora: "16:30", estado: "proximo" },
-        { local: "Peñarol", visitante: "Pampa Vieja",cancha: "pampa vieja", hora: "16:30", estado: "proximo" },
-        { local: "EL Rincon", visitante: "Andacollo",cancha: "san lorenzo", hora: "16:30", estado: "proximo" },
-        { local: "San Lorenzo", visitante: "Arbol Verde",golesL: 2, golesV: 2,cancha: "pampa", hora: "14:00", estado: "vivo" },
-        { local: "Estrella", visitante: "Racing",golesL: 2, golesV: 2,cancha: "san lorenzo", hora: "14:00", estado: "vivo" },
-        { local: "Central Norte", visitante: "Niquivil",golesL: 0, golesV: 2,cancha: "pampa vieja", hora: "14:00", estado: "vivo" }
+        { local: "Pampa", visitante: "Florida",golesL: 2, golesV: 1,cancha:"pampa", hora: "16:30", estado: "finalizado" },
+        { local: "Peñarol", visitante: "Pampa Vieja",golesL: 0, golesV: 1,cancha: "pampa vieja", hora: "16:30", estado: "finalizado" },
+        { local: "EL Rincon", visitante: "Andacollo",golesL: 3, golesV: 0,cancha: "san lorenzo", hora: "16:30", estado: "finalizado" },
+        { local: "San Lorenzo", visitante: "Arbol Verde",golesL: 2, golesV: 6,cancha: "pampa", hora: "14:00", estado: "finalizado" },
+        { local: "Estrella", visitante: "Racing",golesL: 3, golesV: 2,cancha: "san lorenzo", hora: "14:00", estado: "finalizado" },
+        { local: "Central Norte", visitante: "Niquivil",golesL: 0, golesV: 2,cancha: "pampa vieja", hora: "14:00", estado: "finalizado" }
       ],
       fecha5: [
         { local: "Arbol Verde", visitante: "Estrella",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
