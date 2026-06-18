@@ -61,7 +61,7 @@ const categorias = {
         { local: "San Lorenzo", visitante: "Pampa",cancha: "san lorenzo", hora: "16:30", estado: "proximo" },
         { local: "Racing", visitante: "Pampa Vieja",cancha: "andacollo", hora: "14:00", estado: "proximo" },
         { local: "El Rincon", visitante: "Niquivil",cancha: "san lorenzo", hora: "14:00", estado: "proximo" },
-        { local: "Central Norte", visitante: "Florida",cancha: "albor verde", hora: "14:00", estado: "proximo" }
+        { local: "Central Norte", visitante: "Florida",cancha: "arbor verde", hora: "14:00", estado: "proximo" }
       ],
       fecha6: [
         { local: "Central Norte", visitante: "San Lorenzo",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
