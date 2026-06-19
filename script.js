@@ -152,7 +152,8 @@ const categorias = {
       { nombre: "Marcelo Balmaceda", goles: 1, equipo:"Estrella" },
        { nombre: "Santiago Castillo", goles: 1, equipo:"Andacollo" },
         { nombre: "Matias Montaño", goles: 1, equipo: "El Rincon" },
-      {nombre: "Gonzalo Pasten", goles: 2, equipo: "Peñarol" }
+      {nombre: "Gonzalo Pasten", goles: 2, equipo: "Peñarol" },
+      {nombre: "Osvaldo Maza", goles: 1, equipo: "Niquivil" }
      
     ]
 
