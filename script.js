@@ -205,9 +205,9 @@ const categorias = {
         { local: "San Martin", visitante: "La Frontera", cancha: "libre", hora: "libre", estado: "libres" }  
       ],
         fecha5: [
-        { local: "Calle Varas", visitante: "San Roque",cancha: "la falda", hora: "14:00", estado: "proximo" },
+        { local: "Calle Varas", visitante: "San Roque",golesL: 3, golesV: 3,cancha: "la falda", hora: "14:00", estado: "finalizado" },
         { local: "Otra Banda", visitante: "Independiente",cancha: "hungaros", hora: "16:30", estado: "proximo" },
-        { local: "San Martin", visitante: "San Blas",cancha: "hungaros", hora: "14:00", estado: "proximo" },
+        { local: "San Martin", visitante: "San Blas",golesL: 0, golesV: 2,cancha: "hungaros", hora: "14:00", estado: "finalizado" },
         { local: "Huaco", visitante: "La Frontera",cancha: " la falda", hora: "16:30", estado: "proximo" },
         { local: "La Falda", visitante: "Boca del Medano", cancha: "libre", hora: "libre", estado: "libres" } 
       ],
