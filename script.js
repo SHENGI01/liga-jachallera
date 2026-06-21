@@ -57,7 +57,7 @@ const categorias = {
       ],
       fecha5: [
         { local: "Arbol Verde", visitante: "Estrella",golesL: 1, golesV: 4,cancha:"arbol verde", hora: "16:30", estado: "finalizado" },
-        { local: "Peñarol", visitante: "Andacollo",golesL: 0, golesV: 0,cancha: "andacollo", hora: "16:30", estado: "vivo" },
+        { local: "Peñarol", visitante: "Andacollo",golesL: 1, golesV: 0,cancha: "andacollo", hora: "16:30", estado: "vivo" },
         { local: "San Lorenzo", visitante: "Pampa",golesL: 1, golesV: 0,cancha: "san lorenzo", hora: "16:30", estado: "vivo" },
         { local: "Racing", visitante: "Pampa Vieja",golesL: 1, golesV: 0,cancha: "andacollo", hora: "14:00", estado: "finalizado" },
         { local: "El Rincon", visitante: "Niquivil",golesL: 2, golesV: 0,cancha: "san lorenzo", hora: "14:00", estado: "finalizado" },
