@@ -221,7 +221,7 @@ const categorias = {
        fecha6: [
         { local: "Calle Varas", visitante: "Boca del Medano",golesL: 0, golesV: 0,cancha: "san martin", hora: "14:00", estado: "vivo" },
         { local: "San Martin", visitante: "La Falda",cancha: "san martin", hora: "16:30", estado: "proximo" },
-        { local: "Otra Banda", visitante: "Huaco",golesL: 0, golesV: 0,cancha: "san blas", hora: "14:00", estado: "vivo" },
+        { local: "Otra Banda", visitante: "Huaco",golesL: 1, golesV: 0,cancha: "san blas", hora: "14:00", estado: "vivo" },
         { local: "San Blas", visitante: "La Frontera",cancha: " san blas", hora: "16:30", estado: "proximo" },
         { local: "San Roque", visitante: "Independiente", cancha: "libre", hora: "libre", estado: "libres" } 
       ],
