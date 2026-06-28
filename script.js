@@ -69,7 +69,7 @@ const categorias = {
         { local: "Estrella", visitante: "Pampa Vieja",golesL: 1, golesV: 1,cancha: "pampa vieja", hora: "16:30", estado: "finalizado" },
         { local: "Arbol Verde", visitante: "Pampa",golesL: 2, golesV: 0,cancha: "niquivil", hora: "14:00", estado: "finalizado" },
         { local: "El Rincon", visitante: "Florida",golesL: 3, golesV: 3,cancha: "peñarol", hora: "14:00", estado: "finalizado" },
-        { local: "Andacollo", visitante: "Racing",golesL: 0, golesV: 2,cancha: "pampa vieja", hora: "14:00", estado: "finalizado" }
+        { local: "Andacollo", visitante: "Racing",golesL: 1, golesV: 2,cancha: "pampa vieja", hora: "14:00", estado: "finalizado" }
       ],
       fecha7: [
         { local: "Andacollo", visitante: "Estrella",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
