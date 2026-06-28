@@ -64,9 +64,9 @@ const categorias = {
         { local: "Central Norte", visitante: "Florida",golesL: 2, golesV: 2,cancha: "arbor verde", hora: "14:00", estado: "finalizado" }
       ],
       fecha6: [
-        { local: "Central Norte", visitante: "San Lorenzo",golesL: 0, golesV: 0,cancha:"peñarol", hora: "16:30", estado: "proximo" },
-        { local: "Peñarol", visitante: "Niquivil",golesL: 0, golesV: 0,cancha: "niquivil", hora: "16:30", estado: "proximo" },
-        { local: "Estrella", visitante: "Pampa Vieja",golesL: 0, golesV: 0,cancha: "pampa vieja", hora: "16:30", estado: "proximo" },
+        { local: "Central Norte", visitante: "San Lorenzo",golesL: 0, golesV: 1,cancha:"peñarol", hora: "16:30", estado: "vivo" },
+        { local: "Peñarol", visitante: "Niquivil",golesL: 0, golesV: 0,cancha: "niquivil", hora: "16:30", estado: "vivo" },
+        { local: "Estrella", visitante: "Pampa Vieja",golesL: 0, golesV: 0,cancha: "pampa vieja", hora: "16:30", estado: "vivo" },
         { local: "Arbol Verde", visitante: "Pampa",golesL: 2, golesV: 0,cancha: "niquivil", hora: "14:00", estado: "finalizado" },
         { local: "El Rincon", visitante: "Florida",golesL: 3, golesV: 3,cancha: "peñarol", hora: "14:00", estado: "finalizado" },
         { local: "Andacollo", visitante: "Racing",golesL: 0, golesV: 2,cancha: "pampa vieja", hora: "14:00", estado: "finalizado" }
