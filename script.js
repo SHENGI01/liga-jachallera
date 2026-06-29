@@ -141,7 +141,7 @@ const categorias = {
         { nombre: "Ramon Avila", goles: 1, equipo:"Estrella" },
         { nombre: "Ivan Santana", goles: 2, equipo:"Estrella" },
       { nombre: "Jere Neira", goles: 1, equipo:"Niquivil" },
-      { nombre: "Brian Juares", goles: 3, equipo: "Florida" },
+      { nombre: "Brian Juares", goles: 4, equipo: "Florida" },
       { nombre: "Nicolas Paez", goles: 1, equipo: "Florida" },
       { nombre: "Marcelo Perez", goles: 1, equipo: "Pampa" },
       { nombre: "Erick Perez", goles: 5, equipo: "Racing" },
