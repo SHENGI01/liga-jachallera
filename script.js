@@ -125,7 +125,7 @@ const categorias = {
     goleadores: [
       { nombre: "Gaston Diaz", goles: 1, equipo: "El Rincon" },
       { nombre: "Alejo Santana", goles: 3, equipo: "El Rincon" },
-      { nombre: " Javier Oro", goles: 2, equipo:"Central Norte" },
+      { nombre: " Javier Oro", goles: 4, equipo:"Central Norte" },
        { nombre: " Nestor Celan", goles: 6, equipo:"Arbol Verde" },
        { nombre: " Federico Gomez", goles: 1, equipo:"Arbol Verde" },
          { nombre: " Enzo Diaz", goles: 3, equipo:"Arbol Verde" },
