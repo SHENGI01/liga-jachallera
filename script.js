@@ -582,7 +582,7 @@ botonesCategorias.forEach(btn => {
 
     generarTabla();
     cargarGoleadores();
-    mostrarFecha("fecha6");
+    mostrarFecha("fecha7");
 
   });
 
@@ -681,7 +681,7 @@ btnGoleadores.onclick = () => {
 // INICIO
 // =====================
 
-mostrarFecha("fecha6");
+mostrarFecha("fecha7");
 generarTabla();
 cargarGoleadores();
 
