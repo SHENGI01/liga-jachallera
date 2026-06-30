@@ -153,7 +153,8 @@ const categorias = {
       { nombre: "Santiago Castillo", goles: 1, equipo:"Andacollo" },
       { nombre: "Matias Montaño", goles: 2, equipo: "El Rincon" },
       {nombre: "Gonzalo Pasten", goles: 3, equipo: "Peñarol" },
-      {nombre: "Osvaldo Maza", goles: 1, equipo: "Niquivil" },
+      {nombre: "Osvaldo Maza", goles: 1, equipo: "Niquivil" },
+
      { nombre: "Franco Manrique", goles: 1, equipo:"Central Norte" },
       { nombre: "Santiago Tapia", goles: 1, equipo: "Florida" },
       { nombre: "Bastian Pereyra", goles: 1, equipo:"Estrella" },
@@ -224,6 +225,13 @@ const categorias = {
         { local: "Otra Banda", visitante: "Huaco",golesL: 1, golesV: 0,cancha: "san blas", hora: "14:00", estado: "finalizado" },
         { local: "San Blas", visitante: "La Frontera",golesL: 1, golesV: 2,cancha: " san blas", hora: "16:30", estado: "finalizado" },
         { local: "San Roque", visitante: "Independiente", cancha: "libre", hora: "libre", estado: "libres" } 
+      ],
+        fecha7: [
+        { local: "Independiente", visitante: "San Roque",cancha: "pampa", hora: "14:00", estado: "proximo" },
+        { local: "San Martin", visitante: "La Frontera",cancha: "pampa", hora: "16:30", estado: "proximo" },
+        { local: "La Falda", visitante: "Boca del Medano",cancha: "la falda", hora: "14:00", estado: "proximo" },
+        { local: "San Blas", visitante: "Otra Banda",cancha: " la falda", hora: "16:30", estado: "proximo" },
+        { local: "Calle Varas", visitante: "Huaco", cancha: "libre", hora: "libre", estado: "libres" } 
       ],
     },
 
