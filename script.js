@@ -77,7 +77,7 @@ const categorias = {
         { local: "San Lorenzo", visitante: "El Rincon",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
         { local: "Arbol Verde", visitante: "Pampa Vieja",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
         { local: "Racing", visitante: "Niquivil",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "Central Norte", visitante: "Pampa Vieja",cancha: "sin definir", hora: "sin definir", estado: "proximo" }
+        { local: "Central Norte", visitante: "Pampa",cancha: "sin definir", hora: "sin definir", estado: "proximo" }
       ],
       fecha8: [
         { local: "Pampa", visitante: "El Rincon",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
