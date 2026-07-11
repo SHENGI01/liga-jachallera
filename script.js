@@ -227,9 +227,9 @@ const categorias = {
         { local: "San Roque", visitante: "Independiente", cancha: "libre", hora: "libre", estado: "libres" } 
       ],
         fecha7: [
-        { local: "Independiente", visitante: "San Roque",cancha: "pampa", hora: "14:00", estado: "proximo" },
+        { local: "Independiente", visitante: "San Roque",golesL: 0, golesV: 0,cancha: "pampa", hora: "14:00", estado: "vivo" },
         { local: "San Martin", visitante: "La Frontera",cancha: "pampa", hora: "16:30", estado: "proximo" },
-        { local: "La Falda", visitante: "Boca del Medano",cancha: "la falda", hora: "14:00", estado: "proximo" },
+        { local: "La Falda", visitante: "Boca del Medano",golesL: 0, golesV: 0,cancha: "la falda", hora: "14:00", estado: "vivo" },
         { local: "San Blas", visitante: "Otra Banda",cancha: " la falda", hora: "16:30", estado: "proximo" },
         { local: "Calle Varas", visitante: "Huaco", cancha: "libre", hora: "libre", estado: "libres" } 
       ],
