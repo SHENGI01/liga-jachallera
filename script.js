@@ -72,9 +72,9 @@ const categorias = {
         { local: "Andacollo", visitante: "Racing",golesL: 1, golesV: 2,cancha: "pampa vieja", hora: "14:00", estado: "finalizado" }
       ],
       fecha7: [
-        { local: "Andacollo", visitante: "Estrella",cancha:"andacollo", hora:"16:30", estado: "proximo" },
-        { local: "Peñarol", visitante: "Florida",cancha: "peñarol", hora:"16:30", estado: "proximo" },
-        { local: "San Lorenzo", visitante: "El Rincon",cancha: "san lorenzo", hora:"16:30", estado: "proximo" },
+        { local: "Andacollo", visitante: "Estrella",golesL: 0, golesV: 0,cancha:"andacollo", hora:"16:30", estado: "vivo" },
+        { local: "Peñarol", visitante: "Florida",golesL: 0, golesV: 0,cancha: "peñarol", hora:"16:30", estado: "vivo" },
+        { local: "San Lorenzo", visitante: "El Rincon",golesL: 0, golesV: 0, cancha: "san lorenzo", hora:"16:30", estado: "vivo" },
         { local: "Arbol Verde", visitante: "Pampa Vieja",golesL: 3, golesV: 2,cancha:"andacollo", hora: "14.00", estado: "finalizado" },
         { local: "Racing", visitante: "Niquivil",golesL: 3, golesV: 1,cancha:"san lorenzo", hora: "14:00", estado: "finalizado" },
         { local: "Central Norte", visitante: "Pampa",golesL: 0, golesV: 3,cancha:"peñarol", hora: "14:00", estado: "finalidado" }
