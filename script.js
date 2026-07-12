@@ -231,7 +231,7 @@ const categorias = {
         { local: "San Martin", visitante: "La Frontera",golesL: 1, golesV: 3,cancha: "pampa", hora: "16:30", estado: "finalizado" },
         { local: "La Falda", visitante: "Boca del Medano",golesL: 4, golesV: 0,cancha: "la falda", hora: "14:00", estado: "finalizado" },
         { local: "San Blas", visitante: "Otra Banda",golesL: 2, golesV: 2,cancha: " la falda", hora: "16:30", estado: "finalizado" },
-        { local: "Calle Varas", visitante: "Huaco", golesL: 0, golesV: 0,cancha: "libre", hora: "libre", estado: "libres" } 
+        { local: "Calle Varas", visitante: "Huaco",cancha: "libre", hora: "libre", estado: "libres" } 
       ],
     },
 
