@@ -145,7 +145,7 @@ const categorias = {
       { nombre: "Nicolas Paez", goles: 1, equipo: "Florida" },
       { nombre: "Marcelo Perez", goles: 1, equipo: "Pampa" },
       { nombre: "Erick Perez", goles: 5, equipo: "Racing" },
-      { nombre: "Leonel Jofre", goles: 5, equipo: "Racing" },
+      { nombre: "Leonel Jofre", goles: 6, equipo: "Racing" },
       { nombre: "Ever Ortiz", goles: 2, equipo:"Niquivil" },
       { nombre: "Lisandro Almazan", goles: 7, equipo:"San Lorenzo" },
       { nombre: "Leonel Jofre", goles: 2, equipo: "Racing" },
