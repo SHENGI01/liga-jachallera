@@ -137,7 +137,7 @@ const categorias = {
       { nombre: "Lucas Suesa", goles: 1, equipo: "Arbol Verde" },
         { nombre: "Jose Femenia", goles: 1, equipo: "Arbol Verde" },
       { nombre: "Lucas Nievas", goles: 2, equipo: "Arbol Verde" },
-      {nombre: "Eduardo Felis", goles: 2, equipo: "Peñarol" },
+      {nombre: "Eduardo Felis", goles: 4, equipo: "Peñarol" },
         { nombre: "Ramon Avila", goles: 1, equipo:"Estrella" },
         { nombre: "Ivan Santana", goles: 2, equipo:"Estrella" },
       { nombre: "Jere Neira", goles: 1, equipo:"Niquivil" },
