@@ -126,7 +126,7 @@ const categorias = {
       { nombre: "Gaston Diaz", goles: 1, equipo: "El Rincon" },
       { nombre: "Alejo Santana", goles: 3, equipo: "El Rincon" },
       { nombre: " Javier Oro", goles: 4, equipo:"Central Norte" },
-       { nombre: " Nestor Celan", goles: 6, equipo:"Arbol Verde" },
+       { nombre: " Nestor Celan", goles: 8, equipo:"Arbol Verde" },
        { nombre: " Federico Gomez", goles: 1, equipo:"Arbol Verde" },
          { nombre: " Enzo Diaz", goles: 3, equipo:"Arbol Verde" },
       { nombre: "Michel Garcia", goles: 4, equipo: "Pampa" },
@@ -163,6 +163,7 @@ const categorias = {
       { nombre: "Maximiliano Sanchez", goles: 1, equipo:"San Lorenzo" },
       { nombre: "Angel Abalo", goles: 1, equipo:"San Lorenzo" },
        { nombre: "Alejo Santana", goles: 1, equipo: "El Rincon" },
+{ nombre: "Franco Santana", goles: 3, equipo: "Pampa" },
     ]
 
   },
