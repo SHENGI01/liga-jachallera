@@ -236,7 +236,7 @@ const categorias = {
       ],
        fecha8: [
         { local: "Otra Banda", visitante: "San Roque",cancha: "la falda", hora: "14:00", estado: "proximo" },
-        { local: "L Falda", visitante: "La Frontera",cancha: "la falda", hora: "16:30", estado: "proximo" },
+        { local: "La Falda", visitante: "La Frontera",cancha: "la falda", hora: "16:30", estado: "proximo" },
         { local: "Huaco", visitante: "Boca del Medano",cancha: "peñarol", hora: "14:00", estado: "proximo" },
         { local: "San Blas", visitante: "Calle Varas",cancha: " peñarol", hora: "16:30", estado: "proximo" },
         { local: "San Martin", visitante: "Independiente",cancha: "libre", hora: "libre", estado: "libres" } 
