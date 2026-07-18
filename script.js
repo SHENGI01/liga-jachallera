@@ -235,10 +235,10 @@ const categorias = {
         { local: "Calle Varas", visitante: "Huaco",cancha: "libre", hora: "libre", estado: "libres" } 
       ],
        fecha8: [
-        { local: "Otra Banda", visitante: "San Roque",golesL: 0, golesV: 0,cancha: "la falda", hora: "14:00", estado: "vivo" },
-        { local: "La Falda", visitante: "La Frontera",cancha: "la falda", hora: "16:30", estado: "proximo" },
+        { local: "Otra Banda", visitante: "San Roque",golesL: 0, golesV: 0,cancha: "la falda", hora: "14:00", estado: "finalizado" },
+        { local: "La Falda", visitante: "La Frontera",golesL: 0, golesV: 0cancha: "la falda", hora: "16:30", estado: "finalizado" },
         { local: "Huaco", visitante: "Boca del Medano",golesL: 2, golesV: 1,cancha: "peñarol", hora: "14:00", estado: "finalizado" },
-        { local: "San Blas", visitante: "Calle Varas",cancha: " peñarol", hora: "16:30", estado: "proximo" },
+        { local: "San Blas", visitante: "Calle Varas",golesL: 0, golesV: 0cancha: " peñarol", hora: "16:30", estado: "finalizado" },
         { local: "San Martin", visitante: "Independiente",cancha: "libre", hora: "libre", estado: "libres" } 
       ],
     },
