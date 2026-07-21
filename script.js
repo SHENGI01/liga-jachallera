@@ -241,6 +241,13 @@ const categorias = {
         { local: "San Blas", visitante: "Calle Varas",golesL: 3, golesV: 3,cancha: " peñarol", hora: "16:30", estado: "finalizado" },
         { local: "San Martin", visitante: "Independiente",cancha: "libre", hora: "libre", estado: "libres" } 
       ],
+        fecha9: [
+        { local: "Otra Banda", visitante: "La Frontera",cancha: "arbol verde", hora: "14:00", estado: "proximo" },
+        { local: "Boca del Medano", visitante: "  Independiente",cancha: "arbol verde", hora: "16:30", estado: "proximo" },
+        { local: "Calle Varas", visitante: "San Martin",cancha: "huaco", hora: "14:00", estado: "proximo" },
+        { local: "Huaco", visitante: "San Roque",cancha: " hueaco", hora: "16:30", estado: "proximo" },
+        { local: "La Falda", visitante: "San Blas",cancha: "libre", hora: "libre", estado: "libres" } 
+      ],
     },
 
     goleadores: [
