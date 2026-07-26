@@ -83,9 +83,9 @@ const categorias = {
         { local: "Arbol Verde", visitante: "Central Norte",golesL: 1, golesV: 0,cancha: "pampa", hora: "14:00", estado: "finalizado" },
         { local: "San Lorenzo", visitante: "Peñarol",golesL: 1, golesV: 1,cancha: "florida", hora: "14:00", estado: "finalizado" },
         { local: "Andacollo", visitante: "Pampa Vieja",golesL: 2, golesV: 1,cancha: "niquivil", hora: "14:00", estado: "finalizado" },
-        { local: "Pampa", visitante: "El Rincon",cancha:"pampa", hora: "16:30", estado: "proximo" },
-        { local: "Racing", visitante: "Florida",cancha: "florida", hora: "16:30", estado: "proximo" },
-        { local: "Niquivil", visitante: "Estrella",cancha: "niquivil", hora: "16:30", estado: "proximo" },
+        { local: "Pampa", visitante: "El Rincon",golesL: 2, golesV:2,cancha:"pampa", hora: "16:30", estado: "finalizado" },
+        { local: "Racing", visitante: "Florida",golesL: 2, golesV: 1,cancha: "florida", hora: "16:30", estado: "finalizado" },
+        { local: "Niquivil", visitante: "Estrella",golesL: 0, golesV: 2,cancha: "niquivil", hora: "16:30", estado: "finalizado" },
         
       ],
       fecha9: [
