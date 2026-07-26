@@ -243,7 +243,7 @@ const categorias = {
       ],
         fecha9: [
         { local: "Otra Banda", visitante: "La Frontera",golesL: 1, golesV: 1,cancha: "arbol verde", hora: "14:00", estado: "finalizado" },
-        { local: "Boca del Medano", visitante: "  Independiente",golesL: 2, golesV: 4,cancha: "arbol verde", hora: "16:30", estado: "finalizado" },
+        { local: "Boca del Medano", visitante: "Independiente",golesL: 2, golesV: 4,cancha: "arbol verde", hora: "16:30", estado: "finalizado" },
         { local: "Calle Varas", visitante: "San Martin",golesL: 1, golesV: 0,cancha: "huaco", hora: "14:00", estado: "finalizado" },
         { local: "Huaco", visitante: "San Roque",golesL: 3, golesV: 1,cancha: " hueaco", hora: "16:30", estado: "finalizado" },
         { local: "La Falda", visitante: "San Blas",cancha: "libre", hora: "libre", estado: "libres" } 
