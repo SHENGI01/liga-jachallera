@@ -166,6 +166,15 @@ const categorias = {
       { nombre: "Angel Abalo", goles: 1, equipo:"San Lorenzo" },
        { nombre: "Juan Jofre", goles: 2, equipo: "El Rincon" },
 { nombre: "Franco Santana", goles: 3, equipo: "Pampa" },
+      { nombre: "Diego Toledo", goles: 1, equipo:"San Lorenzo" },
+       { nombre: "Thiago Toledo", goles: 1, equipo: "Racing" },
+       { nombre: "Franco Fuentes", goles: 1, equipo: "Racing" },
+       { nombre: "Leandro Esquivel", goles: 1, equipo: "Florida" },
+      { nombre: "Cesar Sanchez", goles: 1, equipo:"Andacollo" },
+      { nombre: "Mateo Castro", goles: 1, equipo:"Andacollo" },
+       { nombre: "Diego Solares", goles: 1, equipo:"Estrella" },
+       { nombre: "Leonardo Levis", goles: 1, equipo:"Estrella" },
+       { nombre: "Luciano Alvarez", goles: 1, equipo:"Pampa Vieja" },
     ]
 
   },
