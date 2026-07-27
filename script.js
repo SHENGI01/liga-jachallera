@@ -125,9 +125,9 @@ const categorias = {
 
     goleadores: [
       { nombre: "Gaston Diaz", goles: 1, equipo: "El Rincon" },
-      { nombre: "Alejo Santana", goles: 3, equipo: "El Rincon" },
+      { nombre: "Alejo Santana", goles: 4, equipo: "El Rincon" },
       { nombre: " Javier Oro", goles: 3, equipo:"Central Norte" },
-       { nombre: " Nestor Celan", goles: 8, equipo:"Arbol Verde" },
+       { nombre: " Nestor Celan", goles: 9, equipo:"Arbol Verde" },
        { nombre: " Federico Gomez", goles: 1, equipo:"Arbol Verde" },
          { nombre: " Enzo Diaz", goles: 3, equipo:"Arbol Verde" },
       { nombre: "Michel Garcia", goles: 4, equipo: "Pampa" },
@@ -138,7 +138,7 @@ const categorias = {
       { nombre: "Lucas Suesa", goles: 1, equipo: "Arbol Verde" },
         { nombre: "Jose Femenia", goles: 1, equipo: "Arbol Verde" },
       { nombre: "Lucas Nievas", goles: 2, equipo: "Arbol Verde" },
-      {nombre: "Eduardo Felis", goles: 4, equipo: "Peñarol" },
+      {nombre: "Eduardo Felis", goles: 5, equipo: "Peñarol" },
         { nombre: "Ramon Avila", goles: 1, equipo:"Estrella" },
         { nombre: "Ivan Santana", goles: 2, equipo:"Estrella" },
       { nombre: "Jere Neira", goles: 1, equipo:"Niquivil" },
@@ -155,7 +155,8 @@ const categorias = {
       { nombre: "Matias Montaño", goles: 2, equipo: "El Rincon" },
       {nombre: "Gonzalo Pasten", goles: 3, equipo: "Peñarol" },
       {nombre: "Osvaldo Maza", goles: 1, equipo: "Niquivil" },
-
+       { nombre: "Matias Vega", goles: 1, equipo: "Pampa" },
+       { nombre: "Ali Casivar", goles: 1, equipo: "Pampa" },
      { nombre: "Franco Manrique", goles: 1, equipo:"Central Norte" },
       { nombre: "Santiago Tapia", goles: 1, equipo: "Florida" },
       { nombre: "Bastian Pereyra", goles: 1, equipo:"Estrella" },
@@ -163,7 +164,7 @@ const categorias = {
       { nombre: "Santiago Riveros", goles: 3, equipo: "El Rincon" },
       { nombre: "Maximiliano Sanchez", goles: 1, equipo:"San Lorenzo" },
       { nombre: "Angel Abalo", goles: 1, equipo:"San Lorenzo" },
-       { nombre: "Alejo Santana", goles: 1, equipo: "El Rincon" },
+       { nombre: "Juan Jofre", goles: 2, equipo: "El Rincon" },
 { nombre: "Franco Santana", goles: 3, equipo: "Pampa" },
     ]
 
