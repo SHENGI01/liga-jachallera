@@ -728,7 +728,7 @@ btnGoleadores.onclick = () => {
 // INICIO
 // =====================
 
-mostrarFecha("fecha8");
+mostrarFecha("fecha9");
 generarTabla();
 cargarGoleadores();
 
