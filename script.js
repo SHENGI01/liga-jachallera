@@ -256,8 +256,15 @@ const categorias = {
         { local: "Otra Banda", visitante: "La Frontera",golesL: 1, golesV: 1,cancha: "arbol verde", hora: "14:00", estado: "finalizado" },
         { local: "Boca del Medano", visitante: "Independiente",golesL: 2, golesV: 4,cancha: "arbol verde", hora: "16:30", estado: "finalizado" },
         { local: "Calle Varas", visitante: "San Martin",golesL: 1, golesV: 0,cancha: "huaco", hora: "14:00", estado: "finalizado" },
-        { local: "Huaco", visitante: "San Roque",golesL: 3, golesV: 1,cancha: " hueaco", hora: "16:30", estado: "finalizado" },
+        { local: "Huaco", visitante: "San Roque",golesL: 3, golesV: 1,cancha: " huaco", hora: "16:30", estado: "finalizado" },
         { local: "La Falda", visitante: "San Blas",cancha: "libre", hora: "libre", estado: "libres" } 
+      ],
+       fecha10: [
+        { local: "La Falda", visitante: "Calle Varas",cancha: "san blas", hora: "14:00", estado: "proximo" },
+        { local: "San Blas", visitante: "Independiente",cancha: "san blas", hora: "16:30", estado: "proximo" },
+        { local: "La Frontera", visitante: "San Roque",cancha: "san martin", hora: "14:00", estado: "proximo" },
+        { local: "Huaco", visitante: "San Martin",cancha: " san martin", hora: "16:30", estado: "proximo" },
+        { local: "Boca del Medano", visitante: "Otra Banda",cancha: "libre", hora: "libre", estado: "libres" } 
       ],
     },
 
