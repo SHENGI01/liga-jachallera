@@ -94,7 +94,7 @@ const categorias = {
         { local: "Peñarol", visitante: "Pampa",cancha: "peñarol", hora: "16:30", estado: "proximo" },
         { local: "Niquivil", visitante: "Pampa Vieja",golesL: 0, golesV: 0,cancha: "arbol verde", hora: "14:00", estado: "vivo" },
         { local: "Racing", visitante: "San Lorenzo",golesL: 0, golesV: 0,cancha: "peñarol", hora: "14:00", estado: "vivo" },
-        { local: "Central Norte", visitante: "El Rincon",golesL: 0, golesV: 0,cancha: "estrella", hora: "14:00", estado: "vivo" }
+        { local: "Central Norte", visitante: "El Rincon",golesL: 1, golesV: 0,cancha: "estrella", hora: "14:00", estado: "vivo" }
       ],
       fecha10: [
         { local: "Central Norte", visitante: "Peñarol",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
