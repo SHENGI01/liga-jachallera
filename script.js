@@ -260,10 +260,10 @@ const categorias = {
         { local: "La Falda", visitante: "San Blas",cancha: "libre", hora: "libre", estado: "libres" } 
       ],
        fecha10: [
-        { local: "La Falda", visitante: "Calle Varas",golesL: 0, golesV: 0,cancha: "san blas", hora: "14:00", estado: "proximo" },
-        { local: "San Blas", visitante: "Independiente",golesL: 0, golesV: 0,cancha: "san blas", hora: "16:30", estado: "proximo" },
-        { local: "La Frontera", visitante: "San Roque",golesL: 0, golesV: 0,cancha: "san martin", hora: "14:00", estado: "proximo" },
-        { local: "Huaco", visitante: "San Martin",golesL: 0, golesV: 0,cancha: " san martin", hora: "16:30", estado: "proximo" },
+        { local: "La Falda", visitante: "Calle Varas",golesL: 1, golesV: 1,cancha: "san blas", hora: "14:00", estado: "finalizado" },
+        { local: "San Blas", visitante: "Independiente",golesL: 1, golesV: 1,cancha: "san blas", hora: "16:30", estado: "finalizado" },
+        { local: "La Frontera", visitante: "San Roque",golesL: 1, golesV: 1,cancha: "san martin", hora: "14:00", estado: "finalizado" },
+        { local: "Huaco", visitante: "San Martin",golesL: 0, golesV: 3,cancha: " san martin", hora: "16:30", estado: "finalizado" },
         { local: "Boca del Medano", visitante: "Otra Banda",cancha: "libre", hora: "libre", estado: "libres" } 
       ],
     },
