@@ -266,6 +266,7 @@ const categorias = {
         { local: "La Falda", visitante: "San Blas",cancha: "la falda", hora: "14:00", estado: "proximo" },
         { local: "Boca del Medano", visitante: "Otra Banda",cancha: " la falda", hora: "16:30", estado: "proximo" },
         { local: "La Frontera", visitante: "San Roque",cancha: "libre", hora: "libre", estado: "libres" },
+      ],  
     },
 
     goleadores: [
