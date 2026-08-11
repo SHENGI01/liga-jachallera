@@ -260,7 +260,7 @@ const categorias = {
         { local: "Boca del Medano", visitante: "Otra Banda",cancha: "libre", hora: "libre", estado: "libres" },
         
       ],
-
+    },
 
     goleadores: [
       { nombre: "  Franco Pereyra", goles: 3, equipo:"Otra Banda" },
