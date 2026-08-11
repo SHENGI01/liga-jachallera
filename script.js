@@ -260,13 +260,7 @@ const categorias = {
         { local: "Boca del Medano", visitante: "Otra Banda",cancha: "libre", hora: "libre", estado: "libres" },
         
       ],
-      fecha11: [
-        { local: "Huaco", visitante: "Calle Varas",cancha: "independiente", hora: "14:00", estado: "proximo" },
-        { local: "San Martin", visitante: "Independiente",cancha: "independiente", hora: "16:30", estado: "proximo" },
-        { local: "La Falda", visitante: "San Blas",cancha: "la falda", hora: "14:00", estado: "proximo" },
-        { local: "Boca del Medano", visitante: "Otra Banda",cancha: " la falda", hora: "16:30", estado: "proximo" },
-        { local: "La Frontera", visitante: "San Roque",cancha: "libre", hora: "libre", estado: "libres" } 
-    },
+
 
     goleadores: [
       { nombre: "  Franco Pereyra", goles: 3, equipo:"Otra Banda" },
