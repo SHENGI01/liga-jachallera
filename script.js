@@ -97,12 +97,12 @@ const categorias = {
         { local: "Central Norte", visitante: "El Rincon",golesL: 1, golesV: 3,cancha: "estrella", hora: "14:00", estado: "finalizado" }
       ],
       fecha10: [
-        { local: "Central Norte", visitante: "Peñarol",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "Estrella", visitante: "San Lorenzo",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "Florida", visitante: "Pampa Vieja",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "El Rincon", visitante: "Arbol Verde",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "Racing", visitante: "Pampa",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
-        { local: "Niquivil", visitante: "Andacollo",cancha: "sin definir", hora: "sin definir", estado: "proximo" }
+        { local: "Central Norte", visitante: "Peñarol",cancha:"peñarol", hora: "16:30", estado: "proximo" },
+        { local: "Estrella", visitante: "San Lorenzo",cancha: "san lorenzo", hora: "16.00", estado: "proximo" },
+        { local: "Florida", visitante: "Pampa Vieja",cancha: "pampa vieja", hora: "16:30", estado: "proximo" },
+        { local: "El Rincon", visitante: "Arbol Verde",cancha: "san lorenzo", hora: "14:00", estado: "proximo" },
+        { local: "Racing", visitante: "Pampa",cancha: "pampa vieja", hora: "14:00", estado: "proximo" },
+        { local: "Niquivil", visitante: "Andacollo",cancha: "peñarol", hora: "14:00", estado: "proximo" }
       ],
       fecha11: [
         { local: "Florida", visitante: "Andacollo",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
