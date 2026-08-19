@@ -294,10 +294,10 @@ const categorias = {
         { local: "La Frontera", visitante: "San Roque",cancha: "libre", hora: "libre", estado: "libres" },
       ],  
         fecha12: [
-        { local: "La Frontera", visitante: "Calle Varas",cancha: "hungaros", hora: "14:00", estado: "proximo" },
-        { local: "San Martin", visitante: "Otra Banda",cancha: "hungaros", hora: "16:30", estado: "proximo" },
+        { local: "La Frontera", visitante: "Calle Varas",cancha: "peñarol", hora: "14:00", estado: "proximo" },
+        { local: "San Martin", visitante: "Otra Banda",cancha: "la falda", hora: "16:30", estado: "proximo" },
         { local: "La Falda", visitante: "Independiente",cancha: "la falda", hora: "14:00", estado: "proximo" },
-        { local: "Boca del Medano", visitante: "San Roque",cancha: " la falda", hora: "16:30", estado: "proximo" },
+        { local: "Boca del Medano", visitante: "San Roque",cancha: " peñarol", hora: "16:30", estado: "proximo" },
         { local: "Huaco", visitante: "San Blas",cancha: "libre", hora: "libre", estado: "libres" },
       ],  
     },
