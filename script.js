@@ -105,12 +105,12 @@ const categorias = {
         { local: "Niquivil", visitante: "Andacollo",golesL: 1, golesV: 1,cancha: "peñarol", hora: "14:00", estado: "finalizado" }
       ],
       fecha11: [
-        { local: "Florida", visitante: "Andacollo",cancha:"andacollo", hora: "16:30", estado: "proximo" },
-        { local: "Racing", visitante: "Central Norte",cancha: "racing", hora: "16:30", estado: "proximo" },
-        { local: "Peñarol", visitante: "El Rincon",cancha: "san lorenzo", hora: "16:30", estado: "proximo" },
-        { local: "Niquivil", visitante: "Arbol Verde",cancha: "andacollo", hora: "14.00", estado: "proximo" },
-        { local: "Pampa Vieja", visitante: "San Lorenzo",cancha: "san lorenzo", hora: "14:00", estado: "proximo" },
-        { local: "Estrella", visitante: "Pampa",cancha: "racing", hora: "14:00", estado: "proximo" }
+        { local: "Florida", visitante: "Andacollo",cancha:"andacollo", hora: "16:30", estado: "finalizado" },
+        { local: "Racing", visitante: "Central Norte",cancha: "racing", hora: "16:30", estado: "finalizado" },
+        { local: "Peñarol", visitante: "El Rincon",cancha: "san lorenzo", hora: "16:30", estado: "finalizado" },
+        { local: "Niquivil", visitante: "Arbol Verde",cancha: "andacollo", hora: "14.00", estado: "finalizado" },
+        { local: "Pampa Vieja", visitante: "San Lorenzo",cancha: "san lorenzo", hora: "14:00", estado: "finalizado" },
+        { local: "Estrella", visitante: "Pampa",cancha: "racing", hora: "14:00", estado: "finalizado" }
       ],
      
       fecha12: [
@@ -294,10 +294,10 @@ const categorias = {
         { local: "La Frontera", visitante: "San Roque",cancha: "libre", hora: "libre", estado: "libres" },
       ],  
         fecha12: [
-        { local: "La Frontera", visitante: "Calle Varas",cancha: "peñarol", hora: "14:00", estado: "proximo" },
-        { local: "San Martin", visitante: "Otra Banda",cancha: "la falda", hora: "16:30", estado: "proximo" },
-        { local: "La Falda", visitante: "Independiente",cancha: "la falda", hora: "14:00", estado: "proximo" },
-        { local: "Boca del Medano", visitante: "San Roque",cancha: " peñarol", hora: "16:30", estado: "proximo" },
+        { local: "La Frontera", visitante: "Calle Varas",golesL: 5, golesV: 1,cancha: "peñarol", hora: "14:00", estado: "finalizado" },
+        { local: "San Martin", visitante: "Otra Banda",golesL: 3, golesV: 2,cancha: "la falda", hora: "16:30", estado: "finalizado" },
+        { local: "La Falda", visitante: "Independiente",golesL: 0, golesV: 0,cancha: "la falda", hora: "14:00", estado: "finalizado" },
+        { local: "Boca del Medano", visitante: "San Roque",golesL: 2, golesV: 3,cancha: " peñarol", hora: "16:30", estado: "finalizado" },
         { local: "Huaco", visitante: "San Blas",cancha: "libre", hora: "libre", estado: "libres" },
       ],  
     },
