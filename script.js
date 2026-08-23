@@ -108,9 +108,9 @@ const categorias = {
         { local: "Florida", visitante: "Andacollo",cancha:"andacollo", hora: "16:30", estado: "finalizado" },
         { local: "Racing", visitante: "Central Norte",cancha: "racing", hora: "16:30", estado: "finalizado" },
         { local: "Peñarol", visitante: "El Rincon",cancha: "san lorenzo", hora: "16:30", estado: "finalizado" },
-        { local: "Niquivil", visitante: "Arbol Verde",cancha: "andacollo", hora: "14.00", estado: "finalizado" },
-        { local: "Pampa Vieja", visitante: "San Lorenzo",cancha: "san lorenzo", hora: "14:00", estado: "finalizado" },
-        { local: "Estrella", visitante: "Pampa",cancha: "racing", hora: "14:00", estado: "finalizado" }
+        { local: "Niquivil", visitante: "Arbol Verde",golesL: 2, golesV: 4,cancha: "andacollo", hora: "14.00", estado: "finalizado" },
+        { local: "Pampa Vieja", visitante: "San Lorenzo",golesL: 0, golesV: 3,cancha: "san lorenzo", hora: "14:00", estado: "finalizado" },
+        { local: "Estrella", visitante: "Pampa",golesL: 3, golesV: 2,cancha: "racing", hora: "14:00", estado: "finalizado" }
       ],
      
       fecha12: [
