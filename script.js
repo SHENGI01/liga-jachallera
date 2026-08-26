@@ -303,6 +303,13 @@ const categorias = {
         { local: "Boca del Medano", visitante: "San Roque",golesL: 2, golesV: 3,cancha: " peñarol", hora: "16:30", estado: "finalizado" },
         { local: "Huaco", visitante: "San Blas",cancha: "libre", hora: "libre", estado: "libres" },
       ],  
+          fecha13: [
+        { local: "La Frontera", visitante: "Independiente",cancha: "peñarol", hora: "16:30", estado: "proximo" },
+        { local: "San Martin", visitante: "Boca del Medano",cancha: "la falda", hora: "14:00", estado: "proximo" },
+        { local: "Calle Varas", visitante: "Huaco",cancha: "la falda", hora: "14:00", estado: "proximo" },
+        { local: "San Blas", visitante: "San Roque",cancha: " peñarol", hora: "16:30", estado: "proximo" },
+        { local: "La Falda", visitante: "Otra Banda",cancha: "libre", hora: "libre", estado: "libres" },
+      ],  
     },
 
     goleadores: [
