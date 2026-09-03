@@ -310,6 +310,13 @@ const categorias = {
         { local: "San Blas", visitante: "San Roque",golesL: 0, golesV: 0,cancha: " san blas", hora: "16:30", estado: "finalizado" },
         { local: "La Falda", visitante: "Otra Banda",cancha: "libre", hora: "libre", estado: "libres" },
       ],  
+         fecha14: [
+        { local: "San Roque", visitante: "Independiente",cancha: "pampa", hora: "14:00", estado: "proximo" },
+        { local: "San Martin", visitante: "La Falda",cancha: "pampa", hora: "16:00", estado: "proximo" },
+        { local: "Otra Banda", visitante: "Huaco",cancha: "san bla", hora: "16:00", estado: "proximo" },
+        { local: "San Blas", visitante: "La Frontera",cancha: " san blas", hora: "14:00", estado: "proximo" },
+        { local: "Calle Varas", visitante: "Boca del Medano",cancha: "libre", hora: "libre", estado: "libres" },
+      ],  
     },
 
     goleadores: [
