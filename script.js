@@ -122,7 +122,7 @@ const categorias = {
         { local: "Andacollo", visitante: "San Lorenzo",golesL: 4, golesV: 1,cancha: "estrella", hora: "14:00", estado: "finalizado" }
       ],
        fecha13: [
-        { local: "Arbol Verde", visitante: "Florida",golesL: 0, golesV: 2,cancha:"arbol verde", hora: "16:00", estado: "finalizado" },
+        { local: "Arbol Verde", visitante: "Florida",golesL: 2, golesV: 0,cancha:"arbol verde", hora: "16:00", estado: "finalizado" },
         { local: "Andacollo", visitante: "Pampa",golesL: 1, golesV: 1,cancha: "arbol verde", hora: "14:00", estado: "finalizado" },
         { local: "Estrella", visitante: "El Rincon",golesL: 1, golesV: 1,cancha: "san lorenzo", hora: "16:00", estado: "finalizado" },
         { local: "San Lorenzo", visitante: "Niquivil",golesL: 1, golesV: 0,cancha: "san lorenzo", hora: "14:00", estado: "finalizado" },
