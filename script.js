@@ -137,6 +137,22 @@ const categorias = {
         { local: "Racing", visitante: "Arbol Verde",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
         { local: "Niquivil", visitante: "Pampa",cancha: "sin definir", hora: "sin definir", estado: "proximo" }
       ],
+       fecha15: [
+        { local: "Central Norte", visitante: "Niquivil",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Andacollo", visitante: "El Rincon",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Racing", visitante: "Estrella",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Arbol Verde", visitante: "San Lorenzo",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Florida", visitante: "Pampa",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Peñarol", visitante: "Pampa Vieja",cancha: "sin definir", hora: "sin definir", estado: "proximo" }
+      ],
+       fecha16: [
+        { local: "Peñarol", visitante: "Andacollo",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Niquivil", visitante: "El Rincon",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "San Lorenzo", visitante: "Pampa",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Estrella", visitante: "Arbol Verde",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Pampa Vieja", visitante: "Racing",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Florida", visitante: "Central Norte",cancha: "sin definir", hora: "sin definir", estado: "proximo" }
+      ],
 
     },
 
