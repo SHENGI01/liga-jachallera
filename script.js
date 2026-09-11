@@ -336,7 +336,7 @@ const categorias = {
         { local: "San Blas", visitante: "La Frontera",golesL: 2, golesV: 1,cancha: " la falda", hora: "14:00", estado: "finalizado" },
         { local: "Calle Varas", visitante: "Boca del Medano",cancha: "libre", hora: "libre", estado: "libres" },
       ],  
-        fecha14: [
+        fecha15: [
         { local: "Otra Banda", visitante: "Calle Varas",cancha: "huaco", hora: "14:00", estado: "proximo" },
         { local: "Huaco", visitante: "Independiente",cancha: "huaco", hora: "16:00", estado: "proximo" },
         { local: "La Falda", visitante: "San Roque",cancha: "arbol verde", hora: "14:00", estado: "proximo" },
