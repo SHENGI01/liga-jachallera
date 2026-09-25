@@ -140,7 +140,7 @@ const categorias = {
        fecha15: [
         { local: "Central Norte", visitante: "Niquivil",cancha:"peñarol", hora: "16:00", estado: "proximo" },
         { local: "Andacollo", visitante: "El Rincon",cancha: "andacollo", hora: "16:00", estado: "proximo" },
-        { local: "Racing", visitante: "Estrella",cancha: "racing", hora: 16:00", estado: "proximo" },
+        { local: "Racing", visitante: "Estrella",cancha: "racing", hora: "16:00", estado: "proximo" },
         { local: "Arbol Verde", visitante: "San Lorenzo",cancha: "andacollo", hora: "14:00", estado: "proximo" },
         { local: "Florida", visitante: "Pampa",cancha: "racing", hora: "14:00", estado: "proximo" },
         { local: "Peñarol", visitante: "Pampa Vieja",cancha: "peñarol", hora: "14:00", estado: "proximo" }
