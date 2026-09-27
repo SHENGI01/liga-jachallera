@@ -343,6 +343,13 @@ const categorias = {
         { local: "Boca del Medano", visitante: "San Blas",golesL: 0, golesV: 3,cancha: " arbol verde", hora: "16:00", estado: "finalizado" },
         { local: "San Martin", visitante: "La Frontera",cancha: "libre", hora: "libre", estado: "libres" },
       ],  
+          fecha16: [
+        { local: "San Roque", visitante: "Calle Varas",golesL: 0, golesV: 1,cancha: "san blas", hora: "14:00", estado: "finalizado" },
+        { local: "San Martin", visitante:"San Blas",golesL: 1, golesV: 1,cancha: "san blas", hora: "16:00", estado: "finalizado" },
+        { local: "Huaco", visitante: "La Frontera",golesL: 1, golesV: 1,cancha: "la falda", hora: "14:00", estado: "finalizado" },
+        { local: "Boca del Medano", visitante: "La Falda",golesL: 1, golesV: 4,cancha: " la falda", hora: "16:00", estado: "finalizado" },
+        { local: "Independiente", visitante: "Otra Banda",cancha: "libre", hora: "libre", estado: "libres" },
+      ], 
     },
 
     goleadores: [
