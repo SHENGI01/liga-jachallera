@@ -187,7 +187,7 @@ const categorias = {
        { nombre: " Nestor Celan", goles: 16, equipo:"Arbol Verde" },
        { nombre: " Federico Gomez", goles: 1, equipo:"Arbol Verde" },
        { nombre: " Enzo Diaz", goles: 3, equipo:"Arbol Verde" },
-      { nombre: "Michel Garcia", goles: 7, equipo: "Pampa" },
+      { nombre: "Michel Garcia", goles: 8, equipo: "Pampa" },
       { nombre: "Ezequiel Olivares", goles: 3, equipo:"Central Norte" },
       { nombre: "Bruno Abalo", goles: 4, equipo:"San Lorenzo" },
       { nombre: "Gaston Dogonik", goles: 1, equipo:"San Lorenzo" },
