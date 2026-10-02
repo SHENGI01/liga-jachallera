@@ -153,6 +153,30 @@ const categorias = {
         { local: "Pampa Vieja", visitante: "Racing",cancha: "san lorenzo", hora: "14:00", estado: "proximo" },
         { local: "Florida", visitante: "Central Norte",cancha: "niquivil", hora: "14:00", estado: "proximo" }
       ],
+       fecha17: [
+        { local: "Pampa", visitante: "Arbol Verde",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "El Rincon", visitante: "Florida",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Racing", visitante: "Andacollo",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "San Lorenzo", visitante: " Central Norte",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Peñarol", visitante: "Niquivil",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Estrella", visitante: "Pampa Vieja",cancha: "sin definir", hora: "sin definir", estado: "proximo" }
+      ],
+      fecha18: [
+        { local: "Niquivil", visitante: "Racing",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Central Norte", visitante: "Pampa",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "San Lorenzo", visitante: "El Rincon",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Pampa Vieja", visitante: "Arbol Verde",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Estrella", visitante: "Andacollo",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Florida", visitante: "Peñarol",cancha: "sin definir", hora: "sin definir", estado: "proximo" }
+      ],
+      fecha19: [
+        { local: "Arbol Verde", visitante:"Central Norte",cancha:"sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Racing", visitante: "Florida",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Estrella", visitante: "Niquivil",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "El Rincon", visitante: "Pampa",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Peñarol", visitante: "San Lorenzo",cancha: "sin definir", hora: "sin definir", estado: "proximo" },
+        { local: "Pampa Vieja", visitante: "Andacollo",cancha: "sin definir", hora: "sin definir", estado: "proximo" }
+      ],
 
     },
 
