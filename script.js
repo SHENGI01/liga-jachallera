@@ -375,9 +375,9 @@ const categorias = {
         { local: "Independiente", visitante: "Otra Banda",cancha: "libre", hora: "libre", estado: "libres" },
       ], 
           fecha17: [
-        { local: "San Roque", visitante: "Otra Banda",cancha: "independiente", hora: "14:00", estado: "proximo" },
+        { local: "San Roque", visitante: "Otra Banda",cancha: "independiente", hora: "14:00", estado: "vivo" },
         { local: "San Martin", visitante:"Independiente",cancha: "independiente", hora: "16:00", estado: "proximo" },
-        { local: "Calle Varas", visitante: "San Blas",cancha: "srbol verde", hora: "14:00", estado: "proximo" },
+        { local: "Calle Varas", visitante: "San Blas",cancha: "srbol verde", hora: "14:00", estado: "vivo" },
         { local: "Boca del Medano", visitante: "Huaco",cancha: "arbol verde", hora: "16:00", estado: "proximo" },
         { local: "La Falda", visitante: "La Frontera",cancha: "libre", hora: "libre", estado: "libres" },
       ], 
