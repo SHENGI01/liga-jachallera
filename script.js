@@ -381,6 +381,13 @@ const categorias = {
         { local: "Boca del Medano", visitante: "Huaco",golesL: 2, golesV: 1,cancha: "arbol verde", hora: "16:00", estado: "finalizado" },
         { local: "La Falda", visitante: "La Frontera",cancha: "libre", hora: "libre", estado: "libres" },
       ], 
+        fecha18: [
+        { local: "San Blas", visitante: "Independiente",,cancha: "pampa", hora: "14:00", estado: "proximo" },
+        { local: "La Frontera", visitante:"San Roque",cancha: "pampa", hora: "16:00", estado: "proximo" },
+        { local: "Otra Banda", visitante: "Boca del Medano",cancha: "peñarol", hora: "14:00", estado: "proximo" },
+        { local: "Calle Vara", visitante: "La Falda",cancha: "peñarol", hora: "16:00", estado: "proximo" },
+        { local: "Huaco", visitante: "San Martin",cancha: "libre", hora: "libre", estado: "libres" },
+      ], 
     },
 
     goleadores: [
