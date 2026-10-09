@@ -382,7 +382,7 @@ const categorias = {
         { local: "La Falda", visitante: "La Frontera",cancha: "libre", hora: "libre", estado: "libres" },
       ], 
         fecha18: [
-        { local: "San Blas", visitante: "Independiente",,cancha: "pampa", hora: "14:00", estado: "proximo" },
+        { local: "San Blas", visitante: "Independiente",cancha: "pampa", hora: "14:00", estado: "proximo" },
         { local: "La Frontera", visitante:"San Roque",cancha: "pampa", hora: "16:00", estado: "proximo" },
         { local: "Otra Banda", visitante: "Boca del Medano",cancha: "peñarol", hora: "14:00", estado: "proximo" },
         { local: "Calle Vara", visitante: "La Falda",cancha: "peñarol", hora: "16:00", estado: "proximo" },
