@@ -390,6 +390,13 @@ const categorias = {
         { local: "Calle Vara", visitante: "La Falda",golesL: 0, golesV: 0,cancha: "peñarol", hora: "16:00", estado: "finalizado" },
         { local: "Huaco", visitante: "San Martin",cancha: "libre", hora: "libre", estado: "libres" },
       ], 
+       fecha19: [
+        { local: "San Blas", visitante: "Otra Banda",cancha: "la falda", hora: "14:00", estado: "proximo" },
+        { local: "La Falda", visitante:"Huaco",cancha: "la falda", hora: "16:00", estado: "proximo" },
+        { local: "La Frontera", visitante: "Boca del Medano",cancha: "san martin", hora: "14:00", estado: "proximo" },
+        { local: "Calle Vara", visitante: "San Martin",cancha: "san martin", hora: "16:00", estado: "proximo" },
+        { local: "Independiente", visitante: "San Roque",cancha: "libre", hora: "libre", estado: "libres" },
+      ], 
     },
 
     goleadores: [
